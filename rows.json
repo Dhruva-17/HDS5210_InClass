@@ -1,0 +1,958 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "mwda-nf2p",
+      "name" : "HIV Planning Council Service Priorities",
+      "assetType" : "dataset",
+      "attribution" : "City of Austin, Texas - data.austintexas.gov",
+      "averageRating" : 0,
+      "createdAt" : 1538156135,
+      "description" : "Priority ranking of HIV Medical and Support Services for the Austin Area. The HIV Planning Council, a City of Austin Board/Commission, completes an annual prioritization process for HIV services as a grant requirement for the Ryan White HIV/AIDS Program Part A. Results of the prioritization process are considered in the allocation of Ryan White HIV/AIDS Program Part A funding. Priorities are determined using data including but not limited to: epidemiological overview and demographic information for people living with HIV (PLWH), service utilization data, and needs assessment data. The service category ranked \"1\" is the highest priority, the category ranked \"2\" is the second highest priority and so on.",
+      "displayType" : "table",
+      "domainCName" : "data.austintexas.gov",
+      "downloadCount" : 391,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1547579651,
+      "locked" : false,
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 29793181,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1538158059,
+      "publicationGroup" : 15547154,
+      "publicationStage" : "published",
+      "rowIdentifierColumnId" : 376799220,
+      "rowsUpdatedAt" : 1538158058,
+      "rowsUpdatedBy" : "7dfs-caez",
+      "tableId" : 15547212,
+      "totalTimesRated" : 0,
+      "viewCount" : 357,
+      "viewLastModified" : 1731441954,
+      "viewType" : "tabular",
+      "approvals" : [ {
+        "reviewedAt" : 1546892057,
+        "reviewedAutomatically" : true,
+        "state" : "approved",
+        "submissionId" : 677870,
+        "submissionObject" : "public_audience_request",
+        "submissionOutcome" : "change_audience",
+        "submittedAt" : 1546892057,
+        "targetAudience" : "public",
+        "workflowId" : 3284,
+        "submissionDetails" : {
+          "permissionType" : "READ"
+        },
+        "submissionOutcomeApplication" : {
+          "failureCount" : 0,
+          "status" : "success"
+        },
+        "submitter" : {
+          "displayName" : "Deleted User",
+          "flags" : [ "deleted" ]
+        }
+      }, {
+        "message" : "The `strict_permissions` flag must be on to enable internal approvals.",
+        "state" : "unsubmittable",
+        "targetAudience" : "internal",
+        "workflowId" : 4707
+      } ],
+      "clientContext" : {
+        "clientContextVariables" : [ ],
+        "inheritedVariables" : { }
+      },
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 376799220,
+        "name" : "Ryan White HIV Program Part A Service Category",
+        "dataTypeName" : "text",
+        "description" : "",
+        "fieldName" : "ryane_white_hiv_program_part",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 69855633,
+        "cachedContents" : {
+          "largest" : "Treatment Adherence Counseling (Non-Medical Personnel)",
+          "non_null" : "29",
+          "null" : "0",
+          "top" : [ {
+            "item" : "Child Care Services",
+            "count" : "1"
+          }, {
+            "item" : "Case Management (Non-Medical)",
+            "count" : "1"
+          }, {
+            "item" : "Oral Health Care",
+            "count" : "1"
+          }, {
+            "item" : "Mental Health Services",
+            "count" : "1"
+          }, {
+            "item" : "Substance Abuse Services - Outpatient",
+            "count" : "1"
+          }, {
+            "item" : "Early Intervention Services",
+            "count" : "1"
+          }, {
+            "item" : "Hospice Services",
+            "count" : "1"
+          }, {
+            "item" : "Substance Abuse Services - Residential",
+            "count" : "1"
+          }, {
+            "item" : "AIDS Pharmaceutical Assistance - Local",
+            "count" : "1"
+          }, {
+            "item" : "Medical Case Management (Including Treatment Adherence)",
+            "count" : "1"
+          }, {
+            "item" : "Health Education Risk Reduction",
+            "count" : "1"
+          }, {
+            "item" : "Referral for Health Care/Support Services",
+            "count" : "1"
+          }, {
+            "item" : "Home Health Care",
+            "count" : "1"
+          }, {
+            "item" : "Legal Services",
+            "count" : "1"
+          }, {
+            "item" : "Outpatient Ambulatory Medical Care",
+            "count" : "1"
+          }, {
+            "item" : "Home and Community Based Health Services",
+            "count" : "1"
+          }, {
+            "item" : "Treatment Adherence Counseling (Non-Medical Personnel)",
+            "count" : "1"
+          }, {
+            "item" : "Linguistic Services",
+            "count" : "1"
+          }, {
+            "item" : "ADAP",
+            "count" : "1"
+          }, {
+            "item" : "Rehabilitation Services",
+            "count" : "1"
+          } ],
+          "smallest" : "ADAP",
+          "count" : "29",
+          "cardinality" : "29"
+        },
+        "format" : { }
+      }, {
+        "id" : 376799221,
+        "name" : "FY19-20 Rank",
+        "dataTypeName" : "number",
+        "description" : "Fiscal Year (FY) for the Ryan White Program is March 1-February 28",
+        "fieldName" : "fy19_20_rank",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 69855635,
+        "cachedContents" : {
+          "largest" : "29",
+          "non_null" : "29",
+          "average" : "14.86206896551724",
+          "null" : "0",
+          "top" : [ {
+            "item" : "21",
+            "count" : "3"
+          }, {
+            "item" : "15",
+            "count" : "2"
+          }, {
+            "item" : "12",
+            "count" : "1"
+          }, {
+            "item" : "10",
+            "count" : "1"
+          }, {
+            "item" : "18",
+            "count" : "1"
+          }, {
+            "item" : "1",
+            "count" : "1"
+          }, {
+            "item" : "20",
+            "count" : "1"
+          }, {
+            "item" : "25",
+            "count" : "1"
+          }, {
+            "item" : "4",
+            "count" : "1"
+          }, {
+            "item" : "8",
+            "count" : "1"
+          }, {
+            "item" : "6",
+            "count" : "1"
+          }, {
+            "item" : "5",
+            "count" : "1"
+          }, {
+            "item" : "19",
+            "count" : "1"
+          }, {
+            "item" : "9",
+            "count" : "1"
+          }, {
+            "item" : "28",
+            "count" : "1"
+          }, {
+            "item" : "13",
+            "count" : "1"
+          }, {
+            "item" : "29",
+            "count" : "1"
+          }, {
+            "item" : "2",
+            "count" : "1"
+          }, {
+            "item" : "14",
+            "count" : "1"
+          }, {
+            "item" : "11",
+            "count" : "1"
+          } ],
+          "smallest" : "1",
+          "count" : "29",
+          "sum" : "431",
+          "cardinality" : "26"
+        },
+        "format" : { }
+      }, {
+        "id" : 376799222,
+        "name" : "FY18-19 Rank",
+        "dataTypeName" : "number",
+        "description" : "Fiscal Year (FY) for the Ryan White Program is March 1-February 28",
+        "fieldName" : "fy18_19_rank",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 69855636,
+        "cachedContents" : {
+          "largest" : "29",
+          "non_null" : "29",
+          "average" : "14.68965517241379",
+          "null" : "0",
+          "top" : [ {
+            "item" : "23",
+            "count" : "3"
+          }, {
+            "item" : "4",
+            "count" : "2"
+          }, {
+            "item" : "27",
+            "count" : "2"
+          }, {
+            "item" : "14",
+            "count" : "2"
+          }, {
+            "item" : "6",
+            "count" : "2"
+          }, {
+            "item" : "20",
+            "count" : "2"
+          }, {
+            "item" : "17",
+            "count" : "2"
+          }, {
+            "item" : "13",
+            "count" : "1"
+          }, {
+            "item" : "29",
+            "count" : "1"
+          }, {
+            "item" : "2",
+            "count" : "1"
+          }, {
+            "item" : "3",
+            "count" : "1"
+          }, {
+            "item" : "11",
+            "count" : "1"
+          }, {
+            "item" : "26",
+            "count" : "1"
+          }, {
+            "item" : "16",
+            "count" : "1"
+          }, {
+            "item" : "22",
+            "count" : "1"
+          }, {
+            "item" : "12",
+            "count" : "1"
+          }, {
+            "item" : "10",
+            "count" : "1"
+          }, {
+            "item" : "1",
+            "count" : "1"
+          }, {
+            "item" : "8",
+            "count" : "1"
+          }, {
+            "item" : "19",
+            "count" : "1"
+          } ],
+          "smallest" : "1",
+          "count" : "29",
+          "sum" : "426",
+          "cardinality" : "21"
+        },
+        "format" : { }
+      }, {
+        "id" : 376799223,
+        "name" : "FY17-18 Rank",
+        "dataTypeName" : "number",
+        "description" : "Fiscal Year (FY) for the Ryan White Program is March 1-February 28",
+        "fieldName" : "fy17_18_rank",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 69855637,
+        "cachedContents" : {
+          "largest" : "27",
+          "non_null" : "29",
+          "average" : "13.37931034482759",
+          "null" : "0",
+          "top" : [ {
+            "item" : "15",
+            "count" : "3"
+          }, {
+            "item" : "6",
+            "count" : "2"
+          }, {
+            "item" : "10",
+            "count" : "2"
+          }, {
+            "item" : "19",
+            "count" : "2"
+          }, {
+            "item" : "23",
+            "count" : "2"
+          }, {
+            "item" : "18",
+            "count" : "1"
+          }, {
+            "item" : "1",
+            "count" : "1"
+          }, {
+            "item" : "20",
+            "count" : "1"
+          }, {
+            "item" : "4",
+            "count" : "1"
+          }, {
+            "item" : "8",
+            "count" : "1"
+          }, {
+            "item" : "5",
+            "count" : "1"
+          }, {
+            "item" : "16",
+            "count" : "1"
+          }, {
+            "item" : "26",
+            "count" : "1"
+          }, {
+            "item" : "9",
+            "count" : "1"
+          }, {
+            "item" : "13",
+            "count" : "1"
+          }, {
+            "item" : "2",
+            "count" : "1"
+          }, {
+            "item" : "14",
+            "count" : "1"
+          }, {
+            "item" : "11",
+            "count" : "1"
+          }, {
+            "item" : "3",
+            "count" : "1"
+          }, {
+            "item" : "21",
+            "count" : "1"
+          } ],
+          "smallest" : "1",
+          "count" : "29",
+          "sum" : "388",
+          "cardinality" : "23"
+        },
+        "format" : { }
+      }, {
+        "id" : 376799224,
+        "name" : "FY16-17 Rank",
+        "dataTypeName" : "number",
+        "description" : "Fiscal Year (FY) for the Ryan White Program is March 1-February 28",
+        "fieldName" : "fy16_17_rank",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 69855638,
+        "cachedContents" : {
+          "largest" : "27",
+          "non_null" : "29",
+          "average" : "13.37931034482759",
+          "null" : "0",
+          "top" : [ {
+            "item" : "15",
+            "count" : "3"
+          }, {
+            "item" : "6",
+            "count" : "2"
+          }, {
+            "item" : "10",
+            "count" : "2"
+          }, {
+            "item" : "19",
+            "count" : "2"
+          }, {
+            "item" : "23",
+            "count" : "2"
+          }, {
+            "item" : "18",
+            "count" : "1"
+          }, {
+            "item" : "1",
+            "count" : "1"
+          }, {
+            "item" : "20",
+            "count" : "1"
+          }, {
+            "item" : "4",
+            "count" : "1"
+          }, {
+            "item" : "8",
+            "count" : "1"
+          }, {
+            "item" : "5",
+            "count" : "1"
+          }, {
+            "item" : "16",
+            "count" : "1"
+          }, {
+            "item" : "26",
+            "count" : "1"
+          }, {
+            "item" : "9",
+            "count" : "1"
+          }, {
+            "item" : "13",
+            "count" : "1"
+          }, {
+            "item" : "2",
+            "count" : "1"
+          }, {
+            "item" : "14",
+            "count" : "1"
+          }, {
+            "item" : "11",
+            "count" : "1"
+          }, {
+            "item" : "3",
+            "count" : "1"
+          }, {
+            "item" : "21",
+            "count" : "1"
+          } ],
+          "smallest" : "1",
+          "count" : "29",
+          "sum" : "388",
+          "cardinality" : "23"
+        },
+        "format" : { }
+      }, {
+        "id" : 376799225,
+        "name" : "FY 15-16 Rank",
+        "dataTypeName" : "number",
+        "description" : "Fiscal Year (FY) for the Ryan White Program is March 1-February 28",
+        "fieldName" : "fy_15_16_rank",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 69855639,
+        "cachedContents" : {
+          "largest" : "29",
+          "non_null" : "29",
+          "average" : "15.82758620689655",
+          "null" : "0",
+          "top" : [ {
+            "item" : "29",
+            "count" : "2"
+          }, {
+            "item" : "6",
+            "count" : "2"
+          }, {
+            "item" : "21",
+            "count" : "2"
+          }, {
+            "item" : "24",
+            "count" : "2"
+          }, {
+            "item" : "10",
+            "count" : "1"
+          }, {
+            "item" : "18",
+            "count" : "1"
+          }, {
+            "item" : "1",
+            "count" : "1"
+          }, {
+            "item" : "20",
+            "count" : "1"
+          }, {
+            "item" : "4",
+            "count" : "1"
+          }, {
+            "item" : "8",
+            "count" : "1"
+          }, {
+            "item" : "5",
+            "count" : "1"
+          }, {
+            "item" : "15",
+            "count" : "1"
+          }, {
+            "item" : "9",
+            "count" : "1"
+          }, {
+            "item" : "28",
+            "count" : "1"
+          }, {
+            "item" : "13",
+            "count" : "1"
+          }, {
+            "item" : "11",
+            "count" : "1"
+          }, {
+            "item" : "14",
+            "count" : "1"
+          }, {
+            "item" : "3",
+            "count" : "1"
+          }, {
+            "item" : "17",
+            "count" : "1"
+          }, {
+            "item" : "23",
+            "count" : "1"
+          } ],
+          "smallest" : "1",
+          "count" : "29",
+          "sum" : "459",
+          "cardinality" : "25"
+        },
+        "format" : { }
+      }, {
+        "id" : 376799229,
+        "name" : "FY 14-15 Rank",
+        "dataTypeName" : "number",
+        "description" : "Fiscal Year (FY) for the Ryan White Program is March 1-February 28",
+        "fieldName" : "fy_14_15_rank",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 69857031,
+        "cachedContents" : {
+          "largest" : "30",
+          "non_null" : "29",
+          "average" : "15.48275862068966",
+          "null" : "0",
+          "top" : [ {
+            "item" : "17",
+            "count" : "3"
+          }, {
+            "item" : "20",
+            "count" : "2"
+          }, {
+            "item" : "12",
+            "count" : "2"
+          }, {
+            "item" : "22",
+            "count" : "2"
+          }, {
+            "item" : "25",
+            "count" : "1"
+          }, {
+            "item" : "4",
+            "count" : "1"
+          }, {
+            "item" : "8",
+            "count" : "1"
+          }, {
+            "item" : "6",
+            "count" : "1"
+          }, {
+            "item" : "5",
+            "count" : "1"
+          }, {
+            "item" : "9",
+            "count" : "1"
+          }, {
+            "item" : "15",
+            "count" : "1"
+          }, {
+            "item" : "29",
+            "count" : "1"
+          }, {
+            "item" : "2",
+            "count" : "1"
+          }, {
+            "item" : "11",
+            "count" : "1"
+          }, {
+            "item" : "14",
+            "count" : "1"
+          }, {
+            "item" : "3",
+            "count" : "1"
+          }, {
+            "item" : "7",
+            "count" : "1"
+          }, {
+            "item" : "26",
+            "count" : "1"
+          }, {
+            "item" : "24",
+            "count" : "1"
+          }, {
+            "item" : "30",
+            "count" : "1"
+          } ],
+          "smallest" : "1",
+          "count" : "29",
+          "sum" : "449",
+          "cardinality" : "24"
+        },
+        "format" : { }
+      }, {
+        "id" : 376799227,
+        "name" : "FY 13-14 Rank",
+        "dataTypeName" : "number",
+        "description" : "Fiscal Year (FY) for the Ryan White Program is March 1-February 28",
+        "fieldName" : "fy_13_14_rank",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 69855632,
+        "cachedContents" : {
+          "largest" : "30",
+          "non_null" : "29",
+          "average" : "15.37931034482759",
+          "null" : "0",
+          "top" : [ {
+            "item" : "9",
+            "count" : "4"
+          }, {
+            "item" : "23",
+            "count" : "3"
+          }, {
+            "item" : "2",
+            "count" : "2"
+          }, {
+            "item" : "6",
+            "count" : "2"
+          }, {
+            "item" : "5",
+            "count" : "1"
+          }, {
+            "item" : "19",
+            "count" : "1"
+          }, {
+            "item" : "28",
+            "count" : "1"
+          }, {
+            "item" : "13",
+            "count" : "1"
+          }, {
+            "item" : "29",
+            "count" : "1"
+          }, {
+            "item" : "14",
+            "count" : "1"
+          }, {
+            "item" : "21",
+            "count" : "1"
+          }, {
+            "item" : "17",
+            "count" : "1"
+          }, {
+            "item" : "26",
+            "count" : "1"
+          }, {
+            "item" : "30",
+            "count" : "1"
+          }, {
+            "item" : "22",
+            "count" : "1"
+          }, {
+            "item" : "15",
+            "count" : "1"
+          }, {
+            "item" : "16",
+            "count" : "1"
+          }, {
+            "item" : "18",
+            "count" : "1"
+          }, {
+            "item" : "27",
+            "count" : "1"
+          }, {
+            "item" : "1",
+            "count" : "1"
+          } ],
+          "smallest" : "1",
+          "count" : "29",
+          "sum" : "446",
+          "cardinality" : "22"
+        },
+        "format" : { }
+      }, {
+        "id" : 376799230,
+        "name" : "HRSA 2012-13 App Rank",
+        "dataTypeName" : "number",
+        "description" : "Fiscal Year (FY) for the Ryan White Program is March 1-February 28",
+        "fieldName" : "hrsa_2012_13_app_rank",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 69857032,
+        "cachedContents" : {
+          "largest" : "29",
+          "non_null" : "29",
+          "average" : "15.27586206896552",
+          "null" : "0",
+          "top" : [ {
+            "item" : "12",
+            "count" : "2"
+          }, {
+            "item" : "15",
+            "count" : "1"
+          }, {
+            "item" : "16",
+            "count" : "1"
+          }, {
+            "item" : "27",
+            "count" : "1"
+          }, {
+            "item" : "10",
+            "count" : "1"
+          }, {
+            "item" : "18",
+            "count" : "1"
+          }, {
+            "item" : "1",
+            "count" : "1"
+          }, {
+            "item" : "20",
+            "count" : "1"
+          }, {
+            "item" : "25",
+            "count" : "1"
+          }, {
+            "item" : "8",
+            "count" : "1"
+          }, {
+            "item" : "5",
+            "count" : "1"
+          }, {
+            "item" : "6",
+            "count" : "1"
+          }, {
+            "item" : "9",
+            "count" : "1"
+          }, {
+            "item" : "19",
+            "count" : "1"
+          }, {
+            "item" : "28",
+            "count" : "1"
+          }, {
+            "item" : "13",
+            "count" : "1"
+          }, {
+            "item" : "29",
+            "count" : "1"
+          }, {
+            "item" : "2",
+            "count" : "1"
+          }, {
+            "item" : "14",
+            "count" : "1"
+          }, {
+            "item" : "3",
+            "count" : "1"
+          } ],
+          "smallest" : "1",
+          "count" : "29",
+          "sum" : "443",
+          "cardinality" : "28"
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Ownership" : {
+            "Department name" : "Austin Public Health"
+          }
+        },
+        "rowIdentifier" : 376799220,
+        "rowLabel" : "Ryan White Part A HIV Service Category",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "d8z8-zutx",
+        "createdAt" : 1692047191,
+        "displayName" : "APH Open Data Asset Collaborators (Austin Public Health)",
+        "screenName" : "APH Open Data Asset Collaborators (Austin Public Health)",
+        "type" : "team",
+        "members" : [ {
+          "id" : "3mge-r3ae",
+          "createdAt" : 1673624880,
+          "displayName" : "irshad.james@AustinTexas.gov",
+          "email" : "irshad.james@austintexas.gov",
+          "profileImageUrlLarge" : "/api/users/3mge-r3ae/profile_images/LARGE",
+          "profileImageUrlMedium" : "/api/users/3mge-r3ae/profile_images/THUMB",
+          "profileImageUrlSmall" : "/api/users/3mge-r3ae/profile_images/TINY",
+          "screenName" : "irshad.james@AustinTexas.gov",
+          "teamId" : 1536307,
+          "teamRole" : "owner",
+          "type" : "interactive",
+          "flags" : [ "siteMember" ]
+        } ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "d8z8-zutx",
+        "createdAt" : 1692047191,
+        "displayName" : "APH Open Data Asset Collaborators (Austin Public Health)",
+        "screenName" : "APH Open Data Asset Collaborators (Austin Public Health)",
+        "type" : "team",
+        "members" : [ {
+          "id" : "3mge-r3ae",
+          "createdAt" : 1673624880,
+          "displayName" : "irshad.james@AustinTexas.gov",
+          "email" : "irshad.james@austintexas.gov",
+          "profileImageUrlLarge" : "/api/users/3mge-r3ae/profile_images/LARGE",
+          "profileImageUrlMedium" : "/api/users/3mge-r3ae/profile_images/THUMB",
+          "profileImageUrlSmall" : "/api/users/3mge-r3ae/profile_images/TINY",
+          "screenName" : "irshad.james@AustinTexas.gov",
+          "teamId" : 1536307,
+          "teamRole" : "owner",
+          "type" : "interactive",
+          "flags" : [ "siteMember" ]
+        } ]
+      },
+      "tags" : [ "allocations", "fast track cities", "getting to zero", "hiv", "hiv/aids", "hiv planning council", "priority setting", "ryan white" ],
+      "flags" : [ "default", "federated", "internalToPublicFederatedView", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ "row-7sf5_tat5_637t", "00000000-0000-0000-3CE6-FFA3141A9814", 0, 1538161433, null, 1538161433, null, "{ }", "Health Insurance Premium and Cost Sharing Assistance", "1", "6", "6", "6", "4", "5", "5", "6" ]
+, [ "row-hr7a_g2gm_5z3w", "00000000-0000-0000-9D4C-24D8B665584B", 0, 1538161433, null, 1538161433, null, "{ }", "Outpatient Ambulatory Medical Care", "2", "1", "1", "1", "3", "4", "6", "10" ]
+, [ "row-nted~3hv8~wf5r", "00000000-0000-0000-52F3-C5EE664061C6", 0, 1538161433, null, 1538161433, null, "{ }", "Housing Services", "3", "4", "8", "8", "6", "6", "15", "11" ]
+, [ "row-gcbk~3xip_yew6", "00000000-0000-0000-10D4-865DC8D05199", 0, 1538161433, null, 1538161433, null, "{ }", "Medical Case Management (Including Treatment Adherence)", "4", "2", "2", "2", "1", "2", "2", "2" ]
+, [ "row-a6nv_n4wa.mxmb", "00000000-0000-0000-58FA-D88A6B07E567", 0, 1538161433, null, 1538161433, null, "{ }", "Emergency Financial Assistance", "5", "8", "10", "10", "21", "17", "16", "15" ]
+, [ "row-za6h~ydvx_xxgi", "00000000-0000-0000-CA97-5E2DD68308F0", 0, 1538161433, null, 1538161433, null, "{ }", "AIDS Pharmaceutical Assistance - Local", "6", "9", "5", "5", "9", "17", "9", "12" ]
+, [ "row-qvnu_p9ju~ndtv", "00000000-0000-0000-5766-2FA791ECEC4D", 0, 1538161433, null, 1538161433, null, "{ }", "Oral Health Care", "7", "10", "12", "12", "14", "15", "13", "7" ]
+, [ "row-dasd_iny9.6pwn", "00000000-0000-0000-9A42-03B898056EE9", 0, 1538161433, null, 1538161433, null, "{ }", "Food Bank / Home Delivered Meals", "8", "11", "9", "9", "12", "17", "20", "19" ]
+, [ "row-xi6m.cyq7_nzsr", "00000000-0000-0000-004B-1AD77AF9E420", 0, 1538161433, null, 1538161433, null, "{ }", "Case Management (Non-Medical)", "9", "4", "4", "4", "6", "1", "2", "1" ]
+, [ "row-ys5m-b5nj~isx4", "00000000-0000-0000-42CA-89A4925FEABD", 0, 1538161433, null, 1538161433, null, "{ }", "Medical Transportation Services", "10", "12", "10", "10", "15", "3", "1", "3" ]
+, [ "row-y9p5-duvf-teeu", "00000000-0000-0000-BA24-2CA916E4061B", 0, 1538161433, null, 1538161433, null, "{ }", "Substance Abuse Services - Outpatient", "11", "3", "3", "3", "5", "7", "14", "5" ]
+, [ "row-xbnb.nbwq_xs7y", "00000000-0000-0000-8B6D-94941FBEB7EC", 0, 1538161433, null, 1538161433, null, "{ }", "Home and Community Based Health Services", "12", "13", "11", "11", "18", "20", "22", "21" ]
+, [ "row-taim_ijzn.qmvw", "00000000-0000-0000-AC05-D00FB39054DA", 0, 1538161433, null, 1538161433, null, "{ }", "ADAP", "13", "16", "15", "15", "13", "8", "9", "12" ]
+, [ "row-ysy5~h8cy.h3pq", "00000000-0000-0000-9C23-D19AEE67AB9A", 0, 1538161433, null, 1538161433, null, "{ }", "Outreach Services", "14", "14", "14", "14", "10", "12", "9", "14" ]
+, [ "row-3qdk.r8ew.zjea", "00000000-0000-0000-E73E-B1669C58AF67", 0, 1538161433, null, 1538161433, null, "{ }", "Early Intervention Services", "15", "14", "13", "13", "11", "14", "6", "8" ]
+, [ "row-k73f-s4ut-pjuq", "00000000-0000-0000-7E2E-B6004CC40AEA", 0, 1538161433, null, 1538161433, null, "{ }", "Mental Health Services", "15", "17", "15", "15", "16", "9", "9", "9" ]
+, [ "row-r3nw_prk3~cxc4", "00000000-0000-0000-CE48-9CBE64D7D100", 0, 1538161433, null, 1538161433, null, "{ }", "Substance Abuse Services - Residential", "17", "6", "6", "6", "8", "12", "4", "13" ]
+, [ "row-bbft~u4ih.i8ge", "00000000-0000-0000-9FC2-4EE0DC231551", 0, 1538161433, null, 1538161433, null, "{ }", "Medical Nutrition Therapy", "18", "17", "15", "15", "17", "26", "27", "22" ]
+, [ "row-z26a.g7r8.n29g", "00000000-0000-0000-AD79-5D78B67E55A1", 0, 1538161433, null, 1538161433, null, "{ }", "Psychosocial Support Services", "19", "20", "16", "16", "21", "22", "18", "17" ]
+, [ "row-xjzb~ep54_7udq", "00000000-0000-0000-D07F-EBE8CA01B609", 0, 1538161433, null, 1538161433, null, "{ }", "Home Health Care", "20", "20", "21", "21", "19", "22", "23", "23" ]
+, [ "row-r83v_2jpm~iq56", "00000000-0000-0000-BEED-87CD2C83BE69", 0, 1538161433, null, 1538161433, null, "{ }", "Child Care Services", "21", "19", "20", "20", "20", "16", "23", "20" ]
+, [ "row-8qgw.e2de~wmp9", "00000000-0000-0000-66A4-80E16137F7F9", 0, 1538161433, null, 1538161433, null, "{ }", "Linguistic Services", "21", "22", "19", "19", "23", "11", "19", "16" ]
+, [ "row-fqxa_fiqu-evze", "00000000-0000-0000-B198-D6EBD21F9179", 0, 1538161433, null, 1538161433, null, "{ }", "Rehabilitation Services", "21", "23", "23", "23", "24", "28", "30", "29" ]
+, [ "row-ndcu~dzxa~3rrx", "00000000-0000-0000-A10B-AD81F8C59EB4", 0, 1538161433, null, 1538161433, null, "{ }", "Hospice Services", "24", "23", "17", "17", "28", "24", "28", "27" ]
+, [ "row-qawu.ja3y.eqpe", "00000000-0000-0000-B478-BBDD7EB27D36", 0, 1538161433, null, 1538161433, null, "{ }", "Referral for Health Care/Support Services", "25", "23", "23", "23", "29", "20", "17", "18" ]
+, [ "row-k3et-yu8q-qjc6", "00000000-0000-0000-49C2-1B22C58CA160", 0, 1538161433, null, 1538161433, null, "{ }", "Respite Care", "26", "26", "26", "26", "26", "27", "29", "28" ]
+, [ "row-h2n5.7ahd.tsvw", "00000000-0000-0000-CE83-2DC7564A65A6", 0, 1538161433, null, 1538161433, null, "{ }", "Legal Services", "27", "27", "18", "18", "29", "29", "21", "25" ]
+, [ "row-cdhp-acux-wvvc", "00000000-0000-0000-5B4E-69B018301F5A", 0, 1538161433, null, 1538161433, null, "{ }", "Health Education Risk Reduction", "28", "29", "19", "19", "24", "30", "23", "26" ]
+, [ "row-i5ej.ks2y_yx5e", "00000000-0000-0000-922F-BCE65F8986A9", 0, 1538161433, null, 1538161433, null, "{ }", "Treatment Adherence Counseling (Non-Medical Personnel)", "29", "27", "27", "27", "27", "25", "26", "24" ]
+ ]
+}

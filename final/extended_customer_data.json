@@ -1,0 +1,1000 @@
+{"CustomerID":100,"Age":22,"Gender":"Male","Income":24582,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1761696000000}
+{"CustomerID":101,"Age":43,"Gender":"Female","Income":98683,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1709164800000}
+{"CustomerID":102,"Age":37,"Gender":"Male","Income":31397,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1769731200000}
+{"CustomerID":103,"Age":23,"Gender":"Female","Income":58799,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1781654400000}
+{"CustomerID":104,"Age":23,"Gender":"Male","Income":57011,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1780531200000}
+{"CustomerID":105,"Age":67,"Gender":"Male","Income":99183,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1786147200000}
+{"CustomerID":106,"Age":35,"Gender":"Female","Income":64264,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1771545600000}
+{"CustomerID":107,"Age":21,"Gender":"Female","Income":62317,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1742169600000}
+{"CustomerID":108,"Age":34,"Gender":"Female","Income":67914,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1722729600000}
+{"CustomerID":109,"Age":31,"Gender":"Male","Income":65254,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1782691200000}
+{"CustomerID":110,"Age":31,"Gender":"Female","Income":60096,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1704153600000}
+{"CustomerID":111,"Age":30,"Gender":"Male","Income":73785,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1750291200000}
+{"CustomerID":112,"Age":24,"Gender":"Female","Income":72344,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1766016000000}
+{"CustomerID":113,"Age":61,"Gender":"Female","Income":88546,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1775865600000}
+{"CustomerID":114,"Age":32,"Gender":"Female","Income":91091,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1765411200000}
+{"CustomerID":115,"Age":36,"Gender":"Female","Income":85603,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1734739200000}
+{"CustomerID":116,"Age":60,"Gender":"Female","Income":48412,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1758067200000}
+{"CustomerID":117,"Age":64,"Gender":"Female","Income":71658,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1772409600000}
+{"CustomerID":118,"Age":61,"Gender":"Male","Income":69549,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1761609600000}
+{"CustomerID":119,"Age":52,"Gender":"Female","Income":31549,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1718236800000}
+{"CustomerID":120,"Age":34,"Gender":"Male","Income":91216,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1790208000000}
+{"CustomerID":121,"Age":52,"Gender":"Female","Income":45739,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1767398400000}
+{"CustomerID":122,"Age":36,"Gender":"Female","Income":41209,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1711843200000}
+{"CustomerID":123,"Age":37,"Gender":"Female","Income":35116,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1718409600000}
+{"CustomerID":124,"Age":53,"Gender":"Male","Income":40045,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1786838400000}
+{"CustomerID":125,"Age":52,"Gender":"Male","Income":46327,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1721865600000}
+{"CustomerID":126,"Age":49,"Gender":"Female","Income":55709,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1728345600000}
+{"CustomerID":127,"Age":65,"Gender":"Male","Income":63617,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1709596800000}
+{"CustomerID":128,"Age":61,"Gender":"Female","Income":80139,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1780704000000}
+{"CustomerID":129,"Age":57,"Gender":"Female","Income":46905,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1748563200000}
+{"CustomerID":130,"Age":41,"Gender":"Male","Income":84148,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1717545600000}
+{"CustomerID":131,"Age":34,"Gender":"Male","Income":92603,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1769731200000}
+{"CustomerID":132,"Age":24,"Gender":"Male","Income":62919,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1770422400000}
+{"CustomerID":133,"Age":60,"Gender":"Male","Income":78446,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1768521600000}
+{"CustomerID":134,"Age":67,"Gender":"Female","Income":72428,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1730419200000}
+{"CustomerID":135,"Age":18,"Gender":"Male","Income":67894,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1779840000000}
+{"CustomerID":136,"Age":52,"Gender":"Male","Income":26447,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1788825600000}
+{"CustomerID":137,"Age":49,"Gender":"Female","Income":25499,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1738108800000}
+{"CustomerID":138,"Age":53,"Gender":"Male","Income":59041,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1710374400000}
+{"CustomerID":139,"Age":30,"Gender":"Male","Income":51315,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1720137600000}
+{"CustomerID":140,"Age":23,"Gender":"Male","Income":21299,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1753574400000}
+{"CustomerID":141,"Age":31,"Gender":"Male","Income":24994,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1733097600000}
+{"CustomerID":142,"Age":54,"Gender":"Female","Income":27489,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1762387200000}
+{"CustomerID":143,"Age":65,"Gender":"Female","Income":52355,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1753056000000}
+{"CustomerID":144,"Age":32,"Gender":"Male","Income":93805,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1757808000000}
+{"CustomerID":145,"Age":64,"Gender":"Male","Income":88367,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1767052800000}
+{"CustomerID":146,"Age":21,"Gender":"Female","Income":97355,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1724716800000}
+{"CustomerID":147,"Age":57,"Gender":"Male","Income":21996,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1750032000000}
+{"CustomerID":148,"Age":33,"Gender":"Male","Income":64387,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1716163200000}
+{"CustomerID":149,"Age":45,"Gender":"Male","Income":23089,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1726876800000}
+{"CustomerID":150,"Age":33,"Gender":"Male","Income":40659,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1715990400000}
+{"CustomerID":151,"Age":21,"Gender":"Male","Income":65178,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1743638400000}
+{"CustomerID":152,"Age":62,"Gender":"Male","Income":90726,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1710028800000}
+{"CustomerID":153,"Age":43,"Gender":"Male","Income":90111,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1737244800000}
+{"CustomerID":154,"Age":45,"Gender":"Male","Income":54565,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1758412800000}
+{"CustomerID":155,"Age":49,"Gender":"Male","Income":42884,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1721088000000}
+{"CustomerID":156,"Age":62,"Gender":"Female","Income":37199,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1721692800000}
+{"CustomerID":157,"Age":19,"Gender":"Female","Income":80038,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1766707200000}
+{"CustomerID":158,"Age":48,"Gender":"Female","Income":77786,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1753056000000}
+{"CustomerID":159,"Age":20,"Gender":"Male","Income":69294,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1773014400000}
+{"CustomerID":160,"Age":25,"Gender":"Male","Income":98015,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1788825600000}
+{"CustomerID":161,"Age":41,"Gender":"Female","Income":54178,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1773532800000}
+{"CustomerID":162,"Age":32,"Gender":"Male","Income":32665,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1763337600000}
+{"CustomerID":163,"Age":60,"Gender":"Female","Income":20534,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1778198400000}
+{"CustomerID":164,"Age":48,"Gender":"Male","Income":56132,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1780185600000}
+{"CustomerID":165,"Age":26,"Gender":"Female","Income":56110,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1788134400000}
+{"CustomerID":166,"Age":56,"Gender":"Female","Income":78754,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1759276800000}
+{"CustomerID":167,"Age":62,"Gender":"Female","Income":83580,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1741219200000}
+{"CustomerID":168,"Age":19,"Gender":"Male","Income":42469,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1780876800000}
+{"CustomerID":169,"Age":25,"Gender":"Female","Income":84016,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1732060800000}
+{"CustomerID":170,"Age":24,"Gender":"Male","Income":66233,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1742169600000}
+{"CustomerID":171,"Age":61,"Gender":"Male","Income":86708,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1773446400000}
+{"CustomerID":172,"Age":68,"Gender":"Male","Income":78232,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1728864000000}
+{"CustomerID":173,"Age":56,"Gender":"Male","Income":54409,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1723507200000}
+{"CustomerID":174,"Age":59,"Gender":"Male","Income":39324,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1709510400000}
+{"CustomerID":175,"Age":33,"Gender":"Male","Income":28738,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1787529600000}
+{"CustomerID":176,"Age":52,"Gender":"Male","Income":44054,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1785024000000}
+{"CustomerID":177,"Age":47,"Gender":"Female","Income":49709,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1752364800000}
+{"CustomerID":178,"Age":27,"Gender":"Female","Income":20363,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1765670400000}
+{"CustomerID":179,"Age":55,"Gender":"Female","Income":30358,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1747008000000}
+{"CustomerID":180,"Age":35,"Gender":"Male","Income":23240,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1777334400000}
+{"CustomerID":181,"Age":67,"Gender":"Male","Income":92201,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1783987200000}
+{"CustomerID":182,"Age":22,"Gender":"Male","Income":65689,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1783209600000}
+{"CustomerID":183,"Age":46,"Gender":"Male","Income":21936,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1709164800000}
+{"CustomerID":184,"Age":56,"Gender":"Female","Income":63965,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1738281600000}
+{"CustomerID":185,"Age":51,"Gender":"Male","Income":97534,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1726185600000}
+{"CustomerID":186,"Age":60,"Gender":"Female","Income":20882,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1753833600000}
+{"CustomerID":187,"Age":62,"Gender":"Male","Income":40224,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1724630400000}
+{"CustomerID":188,"Age":40,"Gender":"Female","Income":50825,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1773187200000}
+{"CustomerID":189,"Age":22,"Gender":"Male","Income":90740,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1707264000000}
+{"CustomerID":190,"Age":47,"Gender":"Female","Income":48885,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1706140800000}
+{"CustomerID":191,"Age":23,"Gender":"Male","Income":60056,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1739404800000}
+{"CustomerID":192,"Age":63,"Gender":"Female","Income":23203,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1743811200000}
+{"CustomerID":193,"Age":61,"Gender":"Male","Income":80241,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1753315200000}
+{"CustomerID":194,"Age":21,"Gender":"Female","Income":22244,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1789344000000}
+{"CustomerID":195,"Age":46,"Gender":"Female","Income":88619,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1740009600000}
+{"CustomerID":196,"Age":40,"Gender":"Male","Income":41584,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1734825600000}
+{"CustomerID":197,"Age":23,"Gender":"Female","Income":28521,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1737072000000}
+{"CustomerID":198,"Age":49,"Gender":"Male","Income":70017,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1773878400000}
+{"CustomerID":199,"Age":59,"Gender":"Male","Income":53541,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1717632000000}
+{"CustomerID":200,"Age":35,"Gender":"Male","Income":49063,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1753142400000}
+{"CustomerID":201,"Age":32,"Gender":"Female","Income":90268,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1741392000000}
+{"CustomerID":202,"Age":57,"Gender":"Female","Income":84952,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1708128000000}
+{"CustomerID":203,"Age":49,"Gender":"Male","Income":59563,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1732320000000}
+{"CustomerID":204,"Age":26,"Gender":"Male","Income":59752,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1741392000000}
+{"CustomerID":205,"Age":54,"Gender":"Female","Income":22567,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1741219200000}
+{"CustomerID":206,"Age":27,"Gender":"Female","Income":36121,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1708819200000}
+{"CustomerID":207,"Age":37,"Gender":"Female","Income":21674,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1753833600000}
+{"CustomerID":208,"Age":23,"Gender":"Male","Income":96411,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1727136000000}
+{"CustomerID":209,"Age":65,"Gender":"Male","Income":86275,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1709942400000}
+{"CustomerID":210,"Age":20,"Gender":"Male","Income":87081,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1766880000000}
+{"CustomerID":211,"Age":59,"Gender":"Male","Income":49140,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1781913600000}
+{"CustomerID":212,"Age":28,"Gender":"Male","Income":29327,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1755907200000}
+{"CustomerID":213,"Age":60,"Gender":"Female","Income":90663,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1742774400000}
+{"CustomerID":214,"Age":34,"Gender":"Male","Income":43331,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1772496000000}
+{"CustomerID":215,"Age":49,"Gender":"Female","Income":43004,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1726185600000}
+{"CustomerID":216,"Age":21,"Gender":"Female","Income":30492,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1762041600000}
+{"CustomerID":217,"Age":21,"Gender":"Male","Income":74797,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1746316800000}
+{"CustomerID":218,"Age":34,"Gender":"Female","Income":78095,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1768435200000}
+{"CustomerID":219,"Age":58,"Gender":"Male","Income":33749,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1759536000000}
+{"CustomerID":220,"Age":36,"Gender":"Female","Income":83217,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1708214400000}
+{"CustomerID":221,"Age":22,"Gender":"Male","Income":29045,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1760918400000}
+{"CustomerID":222,"Age":49,"Gender":"Male","Income":40116,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1731283200000}
+{"CustomerID":223,"Age":39,"Gender":"Female","Income":38667,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1739664000000}
+{"CustomerID":224,"Age":23,"Gender":"Male","Income":95057,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1741478400000}
+{"CustomerID":225,"Age":52,"Gender":"Female","Income":94205,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1704153600000}
+{"CustomerID":226,"Age":39,"Gender":"Male","Income":47302,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1776643200000}
+{"CustomerID":227,"Age":18,"Gender":"Male","Income":31283,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1786233600000}
+{"CustomerID":228,"Age":37,"Gender":"Male","Income":50935,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1716508800000}
+{"CustomerID":229,"Age":39,"Gender":"Female","Income":92534,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1786579200000}
+{"CustomerID":230,"Age":65,"Gender":"Female","Income":51624,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1735603200000}
+{"CustomerID":231,"Age":28,"Gender":"Male","Income":33440,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1740268800000}
+{"CustomerID":232,"Age":30,"Gender":"Female","Income":66501,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1753488000000}
+{"CustomerID":233,"Age":59,"Gender":"Male","Income":21269,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1771804800000}
+{"CustomerID":234,"Age":20,"Gender":"Female","Income":27868,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1752451200000}
+{"CustomerID":235,"Age":26,"Gender":"Female","Income":50251,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1776902400000}
+{"CustomerID":236,"Age":29,"Gender":"Male","Income":97909,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1742342400000}
+{"CustomerID":237,"Age":40,"Gender":"Male","Income":58729,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1783123200000}
+{"CustomerID":238,"Age":31,"Gender":"Male","Income":35734,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1741478400000}
+{"CustomerID":239,"Age":50,"Gender":"Male","Income":62429,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1759536000000}
+{"CustomerID":240,"Age":35,"Gender":"Male","Income":61337,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1751932800000}
+{"CustomerID":241,"Age":66,"Gender":"Female","Income":60325,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1708905600000}
+{"CustomerID":242,"Age":58,"Gender":"Female","Income":82514,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1752537600000}
+{"CustomerID":243,"Age":26,"Gender":"Male","Income":28433,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1787270400000}
+{"CustomerID":244,"Age":40,"Gender":"Male","Income":29111,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1788393600000}
+{"CustomerID":245,"Age":27,"Gender":"Male","Income":83753,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1719360000000}
+{"CustomerID":246,"Age":36,"Gender":"Female","Income":93620,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1729296000000}
+{"CustomerID":247,"Age":64,"Gender":"Male","Income":41751,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1707955200000}
+{"CustomerID":248,"Age":22,"Gender":"Male","Income":36453,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1718668800000}
+{"CustomerID":249,"Age":64,"Gender":"Female","Income":58968,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1727395200000}
+{"CustomerID":250,"Age":69,"Gender":"Female","Income":50077,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1740009600000}
+{"CustomerID":251,"Age":40,"Gender":"Female","Income":54775,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1777248000000}
+{"CustomerID":252,"Age":47,"Gender":"Female","Income":78144,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1715990400000}
+{"CustomerID":253,"Age":42,"Gender":"Male","Income":68570,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1725321600000}
+{"CustomerID":254,"Age":45,"Gender":"Female","Income":66097,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1716768000000}
+{"CustomerID":255,"Age":51,"Gender":"Female","Income":44503,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1723852800000}
+{"CustomerID":256,"Age":62,"Gender":"Male","Income":22779,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1772409600000}
+{"CustomerID":257,"Age":65,"Gender":"Male","Income":20755,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1759017600000}
+{"CustomerID":258,"Age":64,"Gender":"Male","Income":59263,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1764806400000}
+{"CustomerID":259,"Age":42,"Gender":"Female","Income":75087,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1736294400000}
+{"CustomerID":260,"Age":27,"Gender":"Male","Income":62281,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1710892800000}
+{"CustomerID":261,"Age":31,"Gender":"Female","Income":71482,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1756339200000}
+{"CustomerID":262,"Age":59,"Gender":"Female","Income":74857,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1767744000000}
+{"CustomerID":263,"Age":63,"Gender":"Female","Income":37400,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1709596800000}
+{"CustomerID":264,"Age":47,"Gender":"Male","Income":60115,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1711584000000}
+{"CustomerID":265,"Age":58,"Gender":"Female","Income":34249,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1711584000000}
+{"CustomerID":266,"Age":42,"Gender":"Male","Income":66825,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1765584000000}
+{"CustomerID":267,"Age":31,"Gender":"Male","Income":44600,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1766707200000}
+{"CustomerID":268,"Age":52,"Gender":"Male","Income":57706,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1721606400000}
+{"CustomerID":269,"Age":69,"Gender":"Female","Income":39222,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1782864000000}
+{"CustomerID":270,"Age":65,"Gender":"Female","Income":61139,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1736985600000}
+{"CustomerID":271,"Age":51,"Gender":"Female","Income":61302,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1755907200000}
+{"CustomerID":272,"Age":27,"Gender":"Male","Income":88159,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1745107200000}
+{"CustomerID":273,"Age":52,"Gender":"Female","Income":28646,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1753488000000}
+{"CustomerID":274,"Age":28,"Gender":"Female","Income":33543,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1771632000000}
+{"CustomerID":275,"Age":28,"Gender":"Female","Income":42785,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1756339200000}
+{"CustomerID":276,"Age":38,"Gender":"Female","Income":98353,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1774742400000}
+{"CustomerID":277,"Age":38,"Gender":"Female","Income":51406,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1750550400000}
+{"CustomerID":278,"Age":39,"Gender":"Male","Income":71428,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1722470400000}
+{"CustomerID":279,"Age":62,"Gender":"Male","Income":43777,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1710374400000}
+{"CustomerID":280,"Age":24,"Gender":"Male","Income":77939,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1709251200000}
+{"CustomerID":281,"Age":34,"Gender":"Male","Income":73026,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1764288000000}
+{"CustomerID":282,"Age":19,"Gender":"Female","Income":49553,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1750896000000}
+{"CustomerID":283,"Age":29,"Gender":"Male","Income":43548,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1722902400000}
+{"CustomerID":284,"Age":59,"Gender":"Female","Income":83221,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1705017600000}
+{"CustomerID":285,"Age":35,"Gender":"Male","Income":57265,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1774310400000}
+{"CustomerID":286,"Age":28,"Gender":"Male","Income":60701,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1739836800000}
+{"CustomerID":287,"Age":33,"Gender":"Male","Income":71287,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1706745600000}
+{"CustomerID":288,"Age":66,"Gender":"Female","Income":26727,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1717804800000}
+{"CustomerID":289,"Age":68,"Gender":"Female","Income":70717,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1724457600000}
+{"CustomerID":290,"Age":35,"Gender":"Male","Income":52427,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1767830400000}
+{"CustomerID":291,"Age":52,"Gender":"Female","Income":36692,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1719619200000}
+{"CustomerID":292,"Age":43,"Gender":"Male","Income":51625,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1775606400000}
+{"CustomerID":293,"Age":33,"Gender":"Male","Income":44918,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1752192000000}
+{"CustomerID":294,"Age":23,"Gender":"Male","Income":61136,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1733443200000}
+{"CustomerID":295,"Age":61,"Gender":"Female","Income":72409,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1743552000000}
+{"CustomerID":296,"Age":60,"Gender":"Male","Income":35577,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1710892800000}
+{"CustomerID":297,"Age":64,"Gender":"Male","Income":47689,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1759881600000}
+{"CustomerID":298,"Age":64,"Gender":"Male","Income":31154,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1770681600000}
+{"CustomerID":299,"Age":65,"Gender":"Female","Income":41341,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1789257600000}
+{"CustomerID":300,"Age":59,"Gender":"Male","Income":94681,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1774828800000}
+{"CustomerID":301,"Age":29,"Gender":"Female","Income":66330,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1769558400000}
+{"CustomerID":302,"Age":30,"Gender":"Male","Income":88416,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1744848000000}
+{"CustomerID":303,"Age":21,"Gender":"Female","Income":53313,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1761955200000}
+{"CustomerID":304,"Age":56,"Gender":"Male","Income":66900,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1765756800000}
+{"CustomerID":305,"Age":19,"Gender":"Male","Income":98840,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1713657600000}
+{"CustomerID":306,"Age":43,"Gender":"Female","Income":54695,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1788652800000}
+{"CustomerID":307,"Age":44,"Gender":"Female","Income":50225,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1729209600000}
+{"CustomerID":308,"Age":44,"Gender":"Male","Income":69156,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1786060800000}
+{"CustomerID":309,"Age":32,"Gender":"Female","Income":97209,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1775001600000}
+{"CustomerID":310,"Age":25,"Gender":"Male","Income":47829,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1758499200000}
+{"CustomerID":311,"Age":24,"Gender":"Male","Income":45938,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1737072000000}
+{"CustomerID":312,"Age":64,"Gender":"Male","Income":79164,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1705449600000}
+{"CustomerID":313,"Age":63,"Gender":"Female","Income":74530,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1746576000000}
+{"CustomerID":314,"Age":57,"Gender":"Male","Income":88199,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1732579200000}
+{"CustomerID":315,"Age":29,"Gender":"Female","Income":80282,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1783987200000}
+{"CustomerID":316,"Age":30,"Gender":"Male","Income":67801,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1767830400000}
+{"CustomerID":317,"Age":60,"Gender":"Female","Income":29465,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1779408000000}
+{"CustomerID":318,"Age":34,"Gender":"Female","Income":23326,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1745971200000}
+{"CustomerID":319,"Age":34,"Gender":"Male","Income":23659,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1739059200000}
+{"CustomerID":320,"Age":53,"Gender":"Female","Income":80289,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1714089600000}
+{"CustomerID":321,"Age":38,"Gender":"Male","Income":47594,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1751932800000}
+{"CustomerID":322,"Age":25,"Gender":"Male","Income":24763,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1780012800000}
+{"CustomerID":323,"Age":22,"Gender":"Male","Income":30828,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1713916800000}
+{"CustomerID":324,"Age":43,"Gender":"Male","Income":67588,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1772668800000}
+{"CustomerID":325,"Age":33,"Gender":"Male","Income":31221,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1751414400000}
+{"CustomerID":326,"Age":53,"Gender":"Female","Income":31211,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1774310400000}
+{"CustomerID":327,"Age":45,"Gender":"Male","Income":33569,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1757980800000}
+{"CustomerID":328,"Age":46,"Gender":"Female","Income":57860,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1751241600000}
+{"CustomerID":329,"Age":64,"Gender":"Female","Income":91558,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1759622400000}
+{"CustomerID":330,"Age":29,"Gender":"Male","Income":65337,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1733011200000}
+{"CustomerID":331,"Age":54,"Gender":"Female","Income":72311,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1733011200000}
+{"CustomerID":332,"Age":47,"Gender":"Male","Income":33515,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1788739200000}
+{"CustomerID":333,"Age":40,"Gender":"Female","Income":91695,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1783641600000}
+{"CustomerID":334,"Age":33,"Gender":"Female","Income":44904,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1780790400000}
+{"CustomerID":335,"Age":31,"Gender":"Female","Income":79935,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1767916800000}
+{"CustomerID":336,"Age":27,"Gender":"Male","Income":63790,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1716681600000}
+{"CustomerID":337,"Age":24,"Gender":"Female","Income":88580,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1714521600000}
+{"CustomerID":338,"Age":62,"Gender":"Male","Income":95148,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1710979200000}
+{"CustomerID":339,"Age":69,"Gender":"Female","Income":25636,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1763164800000}
+{"CustomerID":340,"Age":54,"Gender":"Female","Income":97129,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1761523200000}
+{"CustomerID":341,"Age":46,"Gender":"Female","Income":22892,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1761177600000}
+{"CustomerID":342,"Age":20,"Gender":"Female","Income":41672,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1736380800000}
+{"CustomerID":343,"Age":32,"Gender":"Male","Income":25812,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1753228800000}
+{"CustomerID":344,"Age":53,"Gender":"Male","Income":20654,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1709424000000}
+{"CustomerID":345,"Age":64,"Gender":"Female","Income":74633,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1747526400000}
+{"CustomerID":346,"Age":63,"Gender":"Female","Income":37143,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1761696000000}
+{"CustomerID":347,"Age":69,"Gender":"Male","Income":75934,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1742774400000}
+{"CustomerID":348,"Age":36,"Gender":"Male","Income":87334,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1740960000000}
+{"CustomerID":349,"Age":30,"Gender":"Male","Income":49087,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1778976000000}
+{"CustomerID":350,"Age":59,"Gender":"Male","Income":31618,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1740873600000}
+{"CustomerID":351,"Age":38,"Gender":"Female","Income":28446,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1740355200000}
+{"CustomerID":352,"Age":54,"Gender":"Female","Income":68867,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1731801600000}
+{"CustomerID":353,"Age":44,"Gender":"Male","Income":71028,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1782864000000}
+{"CustomerID":354,"Age":69,"Gender":"Male","Income":80101,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1762732800000}
+{"CustomerID":355,"Age":46,"Gender":"Male","Income":47200,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1718323200000}
+{"CustomerID":356,"Age":37,"Gender":"Male","Income":81465,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1755561600000}
+{"CustomerID":357,"Age":42,"Gender":"Male","Income":59148,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1786665600000}
+{"CustomerID":358,"Age":23,"Gender":"Male","Income":40698,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1760054400000}
+{"CustomerID":359,"Age":53,"Gender":"Female","Income":62470,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1743811200000}
+{"CustomerID":360,"Age":19,"Gender":"Female","Income":71660,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1743638400000}
+{"CustomerID":361,"Age":39,"Gender":"Female","Income":73910,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1720310400000}
+{"CustomerID":362,"Age":49,"Gender":"Male","Income":55450,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1744070400000}
+{"CustomerID":363,"Age":33,"Gender":"Male","Income":76463,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1782777600000}
+{"CustomerID":364,"Age":35,"Gender":"Male","Income":53757,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1736726400000}
+{"CustomerID":365,"Age":22,"Gender":"Female","Income":98012,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1704153600000}
+{"CustomerID":366,"Age":53,"Gender":"Male","Income":90247,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1757376000000}
+{"CustomerID":367,"Age":47,"Gender":"Male","Income":92015,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1735430400000}
+{"CustomerID":368,"Age":62,"Gender":"Female","Income":51390,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1710201600000}
+{"CustomerID":369,"Age":36,"Gender":"Male","Income":76116,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1740873600000}
+{"CustomerID":370,"Age":40,"Gender":"Female","Income":33161,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1759104000000}
+{"CustomerID":371,"Age":51,"Gender":"Female","Income":52152,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1718668800000}
+{"CustomerID":372,"Age":30,"Gender":"Male","Income":40836,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1721692800000}
+{"CustomerID":373,"Age":60,"Gender":"Female","Income":86543,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1775260800000}
+{"CustomerID":374,"Age":46,"Gender":"Male","Income":75648,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1733097600000}
+{"CustomerID":375,"Age":53,"Gender":"Female","Income":46331,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1790294400000}
+{"CustomerID":376,"Age":39,"Gender":"Male","Income":30763,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1744761600000}
+{"CustomerID":377,"Age":69,"Gender":"Female","Income":89444,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1720828800000}
+{"CustomerID":378,"Age":69,"Gender":"Male","Income":39187,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1761868800000}
+{"CustomerID":379,"Age":64,"Gender":"Female","Income":31957,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1760400000000}
+{"CustomerID":380,"Age":53,"Gender":"Female","Income":24379,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1727740800000}
+{"CustomerID":381,"Age":26,"Gender":"Female","Income":47959,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1704585600000}
+{"CustomerID":382,"Age":56,"Gender":"Male","Income":47105,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1782172800000}
+{"CustomerID":383,"Age":68,"Gender":"Male","Income":20877,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1788566400000}
+{"CustomerID":384,"Age":36,"Gender":"Female","Income":68353,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1752883200000}
+{"CustomerID":385,"Age":55,"Gender":"Male","Income":71567,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1757203200000}
+{"CustomerID":386,"Age":23,"Gender":"Female","Income":77913,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1777766400000}
+{"CustomerID":387,"Age":69,"Gender":"Male","Income":22637,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1777420800000}
+{"CustomerID":388,"Age":64,"Gender":"Female","Income":92778,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1753488000000}
+{"CustomerID":389,"Age":32,"Gender":"Male","Income":62025,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1755734400000}
+{"CustomerID":390,"Age":37,"Gender":"Female","Income":48742,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1770508800000}
+{"CustomerID":391,"Age":26,"Gender":"Female","Income":31831,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1719360000000}
+{"CustomerID":392,"Age":49,"Gender":"Female","Income":66762,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1724889600000}
+{"CustomerID":393,"Age":21,"Gender":"Female","Income":38830,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1721520000000}
+{"CustomerID":394,"Age":67,"Gender":"Male","Income":75044,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1750896000000}
+{"CustomerID":395,"Age":35,"Gender":"Female","Income":93948,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1773187200000}
+{"CustomerID":396,"Age":22,"Gender":"Male","Income":89202,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1743897600000}
+{"CustomerID":397,"Age":37,"Gender":"Male","Income":57045,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1710892800000}
+{"CustomerID":398,"Age":40,"Gender":"Female","Income":91051,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1749168000000}
+{"CustomerID":399,"Age":28,"Gender":"Male","Income":46627,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1740009600000}
+{"CustomerID":400,"Age":54,"Gender":"Male","Income":35198,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1770163200000}
+{"CustomerID":401,"Age":39,"Gender":"Male","Income":89521,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1737158400000}
+{"CustomerID":402,"Age":21,"Gender":"Female","Income":49475,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1737763200000}
+{"CustomerID":403,"Age":46,"Gender":"Male","Income":39403,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1781395200000}
+{"CustomerID":404,"Age":61,"Gender":"Male","Income":23681,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1773014400000}
+{"CustomerID":405,"Age":51,"Gender":"Female","Income":62292,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1763424000000}
+{"CustomerID":406,"Age":30,"Gender":"Female","Income":25629,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1714867200000}
+{"CustomerID":407,"Age":59,"Gender":"Male","Income":97814,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1746662400000}
+{"CustomerID":408,"Age":26,"Gender":"Female","Income":28417,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1708041600000}
+{"CustomerID":409,"Age":59,"Gender":"Male","Income":54765,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1766016000000}
+{"CustomerID":410,"Age":48,"Gender":"Male","Income":94499,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1745107200000}
+{"CustomerID":411,"Age":24,"Gender":"Male","Income":76574,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1785974400000}
+{"CustomerID":412,"Age":21,"Gender":"Female","Income":47675,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1757462400000}
+{"CustomerID":413,"Age":36,"Gender":"Male","Income":92267,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1744070400000}
+{"CustomerID":414,"Age":59,"Gender":"Female","Income":60563,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1771977600000}
+{"CustomerID":415,"Age":47,"Gender":"Female","Income":31332,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1777334400000}
+{"CustomerID":416,"Age":48,"Gender":"Male","Income":39177,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1714608000000}
+{"CustomerID":417,"Age":52,"Gender":"Female","Income":88447,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1744934400000}
+{"CustomerID":418,"Age":38,"Gender":"Female","Income":77104,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1715558400000}
+{"CustomerID":419,"Age":48,"Gender":"Female","Income":24951,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1757462400000}
+{"CustomerID":420,"Age":36,"Gender":"Female","Income":48333,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1774569600000}
+{"CustomerID":421,"Age":48,"Gender":"Female","Income":41673,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1776643200000}
+{"CustomerID":422,"Age":49,"Gender":"Male","Income":60870,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1752537600000}
+{"CustomerID":423,"Age":19,"Gender":"Female","Income":91101,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1777334400000}
+{"CustomerID":424,"Age":69,"Gender":"Male","Income":42821,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1756425600000}
+{"CustomerID":425,"Age":27,"Gender":"Male","Income":45494,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1771372800000}
+{"CustomerID":426,"Age":19,"Gender":"Male","Income":94160,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1705968000000}
+{"CustomerID":427,"Age":19,"Gender":"Male","Income":20835,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1752883200000}
+{"CustomerID":428,"Age":41,"Gender":"Male","Income":38646,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1780531200000}
+{"CustomerID":429,"Age":34,"Gender":"Male","Income":97360,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1770163200000}
+{"CustomerID":430,"Age":49,"Gender":"Female","Income":57335,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1787356800000}
+{"CustomerID":431,"Age":33,"Gender":"Female","Income":89351,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1724284800000}
+{"CustomerID":432,"Age":33,"Gender":"Female","Income":22429,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1790035200000}
+{"CustomerID":433,"Age":63,"Gender":"Male","Income":61950,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1709078400000}
+{"CustomerID":434,"Age":56,"Gender":"Female","Income":80654,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1718150400000}
+{"CustomerID":435,"Age":48,"Gender":"Female","Income":88143,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1770595200000}
+{"CustomerID":436,"Age":60,"Gender":"Female","Income":97527,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1775347200000}
+{"CustomerID":437,"Age":41,"Gender":"Male","Income":51099,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1722643200000}
+{"CustomerID":438,"Age":18,"Gender":"Female","Income":59385,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1719792000000}
+{"CustomerID":439,"Age":28,"Gender":"Male","Income":55919,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1753142400000}
+{"CustomerID":440,"Age":38,"Gender":"Female","Income":80782,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1760745600000}
+{"CustomerID":441,"Age":21,"Gender":"Male","Income":91116,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1784764800000}
+{"CustomerID":442,"Age":24,"Gender":"Male","Income":92590,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1711756800000}
+{"CustomerID":443,"Age":43,"Gender":"Male","Income":60387,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1787270400000}
+{"CustomerID":444,"Age":64,"Gender":"Female","Income":35823,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1730851200000}
+{"CustomerID":445,"Age":67,"Gender":"Female","Income":66015,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1752105600000}
+{"CustomerID":446,"Age":29,"Gender":"Male","Income":35339,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1787961600000}
+{"CustomerID":447,"Age":48,"Gender":"Female","Income":23491,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1726185600000}
+{"CustomerID":448,"Age":34,"Gender":"Male","Income":20706,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1750032000000}
+{"CustomerID":449,"Age":50,"Gender":"Male","Income":35728,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1788566400000}
+{"CustomerID":450,"Age":28,"Gender":"Female","Income":26997,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1750032000000}
+{"CustomerID":451,"Age":45,"Gender":"Female","Income":80408,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1708473600000}
+{"CustomerID":452,"Age":49,"Gender":"Female","Income":78097,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1733184000000}
+{"CustomerID":453,"Age":18,"Gender":"Male","Income":58523,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1718755200000}
+{"CustomerID":454,"Age":64,"Gender":"Male","Income":45163,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1785888000000}
+{"CustomerID":455,"Age":45,"Gender":"Female","Income":37718,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1709769600000}
+{"CustomerID":456,"Age":59,"Gender":"Male","Income":59619,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1757980800000}
+{"CustomerID":457,"Age":24,"Gender":"Female","Income":32126,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1729900800000}
+{"CustomerID":458,"Age":19,"Gender":"Male","Income":84926,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1762041600000}
+{"CustomerID":459,"Age":59,"Gender":"Female","Income":60633,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1771200000000}
+{"CustomerID":460,"Age":41,"Gender":"Female","Income":97654,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1775865600000}
+{"CustomerID":461,"Age":21,"Gender":"Male","Income":23317,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1724025600000}
+{"CustomerID":462,"Age":61,"Gender":"Female","Income":64980,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1788220800000}
+{"CustomerID":463,"Age":36,"Gender":"Female","Income":64115,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1776297600000}
+{"CustomerID":464,"Age":43,"Gender":"Male","Income":81646,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1709856000000}
+{"CustomerID":465,"Age":28,"Gender":"Female","Income":63158,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1747699200000}
+{"CustomerID":466,"Age":57,"Gender":"Male","Income":75963,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1706400000000}
+{"CustomerID":467,"Age":67,"Gender":"Female","Income":67631,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1785974400000}
+{"CustomerID":468,"Age":60,"Gender":"Male","Income":69316,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1758240000000}
+{"CustomerID":469,"Age":28,"Gender":"Female","Income":79342,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1708387200000}
+{"CustomerID":470,"Age":62,"Gender":"Female","Income":35504,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1763856000000}
+{"CustomerID":471,"Age":20,"Gender":"Female","Income":88593,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1726444800000}
+{"CustomerID":472,"Age":29,"Gender":"Female","Income":46660,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1755043200000}
+{"CustomerID":473,"Age":20,"Gender":"Male","Income":57196,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1771804800000}
+{"CustomerID":474,"Age":59,"Gender":"Male","Income":85938,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1757548800000}
+{"CustomerID":475,"Age":44,"Gender":"Male","Income":28605,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1787184000000}
+{"CustomerID":476,"Age":66,"Gender":"Male","Income":77388,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1754611200000}
+{"CustomerID":477,"Age":19,"Gender":"Male","Income":75501,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1763337600000}
+{"CustomerID":478,"Age":66,"Gender":"Male","Income":73309,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1719878400000}
+{"CustomerID":479,"Age":33,"Gender":"Male","Income":47043,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1705968000000}
+{"CustomerID":480,"Age":19,"Gender":"Female","Income":53635,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1771891200000}
+{"CustomerID":481,"Age":47,"Gender":"Female","Income":99315,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1715126400000}
+{"CustomerID":482,"Age":37,"Gender":"Female","Income":53132,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1729123200000}
+{"CustomerID":483,"Age":55,"Gender":"Female","Income":35366,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1775865600000}
+{"CustomerID":484,"Age":45,"Gender":"Male","Income":92107,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1747267200000}
+{"CustomerID":485,"Age":42,"Gender":"Male","Income":82580,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1720051200000}
+{"CustomerID":486,"Age":49,"Gender":"Male","Income":77889,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1745366400000}
+{"CustomerID":487,"Age":27,"Gender":"Female","Income":99553,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1753315200000}
+{"CustomerID":488,"Age":59,"Gender":"Male","Income":59236,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1746489600000}
+{"CustomerID":489,"Age":57,"Gender":"Female","Income":24150,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1748304000000}
+{"CustomerID":490,"Age":50,"Gender":"Male","Income":39423,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1759536000000}
+{"CustomerID":491,"Age":30,"Gender":"Male","Income":24137,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1709769600000}
+{"CustomerID":492,"Age":58,"Gender":"Male","Income":49992,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1773532800000}
+{"CustomerID":493,"Age":59,"Gender":"Male","Income":64921,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1744329600000}
+{"CustomerID":494,"Age":64,"Gender":"Female","Income":99369,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1728604800000}
+{"CustomerID":495,"Age":54,"Gender":"Female","Income":86917,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1755907200000}
+{"CustomerID":496,"Age":33,"Gender":"Male","Income":93690,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1740009600000}
+{"CustomerID":497,"Age":62,"Gender":"Female","Income":54235,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1712620800000}
+{"CustomerID":498,"Age":39,"Gender":"Male","Income":98975,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1720310400000}
+{"CustomerID":499,"Age":37,"Gender":"Male","Income":39122,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1789430400000}
+{"CustomerID":500,"Age":67,"Gender":"Male","Income":43956,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1780876800000}
+{"CustomerID":501,"Age":60,"Gender":"Male","Income":83879,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1778112000000}
+{"CustomerID":502,"Age":44,"Gender":"Female","Income":78560,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1737504000000}
+{"CustomerID":503,"Age":58,"Gender":"Male","Income":88685,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1724803200000}
+{"CustomerID":504,"Age":33,"Gender":"Male","Income":44660,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1771545600000}
+{"CustomerID":505,"Age":51,"Gender":"Female","Income":21168,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1767139200000}
+{"CustomerID":506,"Age":49,"Gender":"Male","Income":65124,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1740009600000}
+{"CustomerID":507,"Age":43,"Gender":"Female","Income":55897,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1783296000000}
+{"CustomerID":508,"Age":42,"Gender":"Male","Income":35032,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1719187200000}
+{"CustomerID":509,"Age":19,"Gender":"Male","Income":72797,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1737417600000}
+{"CustomerID":510,"Age":29,"Gender":"Male","Income":55294,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1744675200000}
+{"CustomerID":511,"Age":57,"Gender":"Male","Income":63827,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1777680000000}
+{"CustomerID":512,"Age":26,"Gender":"Male","Income":23516,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1724112000000}
+{"CustomerID":513,"Age":29,"Gender":"Male","Income":39751,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1761264000000}
+{"CustomerID":514,"Age":43,"Gender":"Female","Income":50373,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1743033600000}
+{"CustomerID":515,"Age":26,"Gender":"Male","Income":50270,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1727913600000}
+{"CustomerID":516,"Age":27,"Gender":"Female","Income":30386,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1723766400000}
+{"CustomerID":517,"Age":49,"Gender":"Female","Income":84817,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1718755200000}
+{"CustomerID":518,"Age":51,"Gender":"Male","Income":85184,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1767484800000}
+{"CustomerID":519,"Age":65,"Gender":"Female","Income":99693,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1722384000000}
+{"CustomerID":520,"Age":37,"Gender":"Male","Income":57879,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1728345600000}
+{"CustomerID":521,"Age":56,"Gender":"Female","Income":69597,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1707523200000}
+{"CustomerID":522,"Age":19,"Gender":"Male","Income":59132,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1714521600000}
+{"CustomerID":523,"Age":18,"Gender":"Female","Income":23626,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1723593600000}
+{"CustomerID":524,"Age":68,"Gender":"Female","Income":97065,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1729382400000}
+{"CustomerID":525,"Age":53,"Gender":"Male","Income":75390,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1755820800000}
+{"CustomerID":526,"Age":41,"Gender":"Female","Income":36645,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1727049600000}
+{"CustomerID":527,"Age":44,"Gender":"Male","Income":74144,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1750723200000}
+{"CustomerID":528,"Age":19,"Gender":"Male","Income":33382,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1769558400000}
+{"CustomerID":529,"Age":48,"Gender":"Male","Income":24025,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1775520000000}
+{"CustomerID":530,"Age":31,"Gender":"Male","Income":63226,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1742947200000}
+{"CustomerID":531,"Age":19,"Gender":"Male","Income":99380,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1742774400000}
+{"CustomerID":532,"Age":46,"Gender":"Female","Income":89711,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1769299200000}
+{"CustomerID":533,"Age":32,"Gender":"Female","Income":94710,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1709251200000}
+{"CustomerID":534,"Age":29,"Gender":"Female","Income":23443,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1747353600000}
+{"CustomerID":535,"Age":54,"Gender":"Male","Income":41395,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1716681600000}
+{"CustomerID":536,"Age":45,"Gender":"Female","Income":30725,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1763251200000}
+{"CustomerID":537,"Age":37,"Gender":"Female","Income":53461,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1785628800000}
+{"CustomerID":538,"Age":56,"Gender":"Female","Income":61115,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1772236800000}
+{"CustomerID":539,"Age":41,"Gender":"Female","Income":99790,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1732838400000}
+{"CustomerID":540,"Age":38,"Gender":"Female","Income":99557,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1780099200000}
+{"CustomerID":541,"Age":27,"Gender":"Male","Income":91260,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1786320000000}
+{"CustomerID":542,"Age":63,"Gender":"Male","Income":48690,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1780963200000}
+{"CustomerID":543,"Age":31,"Gender":"Female","Income":21407,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1716249600000}
+{"CustomerID":544,"Age":54,"Gender":"Male","Income":93568,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1707782400000}
+{"CustomerID":545,"Age":35,"Gender":"Male","Income":78560,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1716422400000}
+{"CustomerID":546,"Age":41,"Gender":"Female","Income":67340,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1778716800000}
+{"CustomerID":547,"Age":31,"Gender":"Female","Income":37794,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1732752000000}
+{"CustomerID":548,"Age":51,"Gender":"Male","Income":39881,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1790208000000}
+{"CustomerID":549,"Age":29,"Gender":"Female","Income":69703,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1746921600000}
+{"CustomerID":550,"Age":39,"Gender":"Male","Income":64354,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1738195200000}
+{"CustomerID":551,"Age":23,"Gender":"Male","Income":98462,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1708732800000}
+{"CustomerID":552,"Age":53,"Gender":"Female","Income":34390,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1730505600000}
+{"CustomerID":553,"Age":62,"Gender":"Male","Income":47307,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1779148800000}
+{"CustomerID":554,"Age":53,"Gender":"Male","Income":44502,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1740528000000}
+{"CustomerID":555,"Age":39,"Gender":"Male","Income":42486,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1740009600000}
+{"CustomerID":556,"Age":31,"Gender":"Female","Income":58258,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1762128000000}
+{"CustomerID":557,"Age":33,"Gender":"Female","Income":77716,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1772841600000}
+{"CustomerID":558,"Age":53,"Gender":"Female","Income":30748,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1732060800000}
+{"CustomerID":559,"Age":42,"Gender":"Female","Income":82785,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1765324800000}
+{"CustomerID":560,"Age":49,"Gender":"Male","Income":96050,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1761955200000}
+{"CustomerID":561,"Age":50,"Gender":"Female","Income":42738,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1710892800000}
+{"CustomerID":562,"Age":62,"Gender":"Female","Income":94231,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1706659200000}
+{"CustomerID":563,"Age":53,"Gender":"Female","Income":93606,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1789084800000}
+{"CustomerID":564,"Age":37,"Gender":"Female","Income":61662,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1713657600000}
+{"CustomerID":565,"Age":35,"Gender":"Male","Income":35123,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1752192000000}
+{"CustomerID":566,"Age":55,"Gender":"Male","Income":45616,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1778716800000}
+{"CustomerID":567,"Age":20,"Gender":"Male","Income":31182,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1765929600000}
+{"CustomerID":568,"Age":40,"Gender":"Female","Income":82013,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1752710400000}
+{"CustomerID":569,"Age":49,"Gender":"Female","Income":51331,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1760140800000}
+{"CustomerID":570,"Age":62,"Gender":"Male","Income":66098,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1744761600000}
+{"CustomerID":571,"Age":33,"Gender":"Female","Income":46128,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1710374400000}
+{"CustomerID":572,"Age":22,"Gender":"Female","Income":51556,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1751760000000}
+{"CustomerID":573,"Age":21,"Gender":"Male","Income":41876,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1745366400000}
+{"CustomerID":574,"Age":38,"Gender":"Male","Income":28949,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1754870400000}
+{"CustomerID":575,"Age":57,"Gender":"Female","Income":71962,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1737417600000}
+{"CustomerID":576,"Age":68,"Gender":"Female","Income":91206,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1764374400000}
+{"CustomerID":577,"Age":31,"Gender":"Female","Income":44099,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1780185600000}
+{"CustomerID":578,"Age":56,"Gender":"Male","Income":32716,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1752710400000}
+{"CustomerID":579,"Age":48,"Gender":"Male","Income":72611,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1784332800000}
+{"CustomerID":580,"Age":31,"Gender":"Male","Income":58885,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1741392000000}
+{"CustomerID":581,"Age":23,"Gender":"Male","Income":73144,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1739577600000}
+{"CustomerID":582,"Age":29,"Gender":"Female","Income":85220,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1744329600000}
+{"CustomerID":583,"Age":33,"Gender":"Male","Income":27837,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1755734400000}
+{"CustomerID":584,"Age":34,"Gender":"Male","Income":69355,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1757635200000}
+{"CustomerID":585,"Age":62,"Gender":"Female","Income":67299,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1789689600000}
+{"CustomerID":586,"Age":40,"Gender":"Female","Income":39159,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1782518400000}
+{"CustomerID":587,"Age":31,"Gender":"Female","Income":71012,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1767657600000}
+{"CustomerID":588,"Age":24,"Gender":"Male","Income":79305,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1789862400000}
+{"CustomerID":589,"Age":63,"Gender":"Female","Income":37106,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1789776000000}
+{"CustomerID":590,"Age":49,"Gender":"Female","Income":78123,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1725408000000}
+{"CustomerID":591,"Age":32,"Gender":"Male","Income":28720,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1754179200000}
+{"CustomerID":592,"Age":61,"Gender":"Male","Income":57661,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1714348800000}
+{"CustomerID":593,"Age":34,"Gender":"Female","Income":41120,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1709769600000}
+{"CustomerID":594,"Age":58,"Gender":"Male","Income":39790,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1753488000000}
+{"CustomerID":595,"Age":64,"Gender":"Female","Income":78655,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1786579200000}
+{"CustomerID":596,"Age":61,"Gender":"Female","Income":79643,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1732233600000}
+{"CustomerID":597,"Age":51,"Gender":"Male","Income":67374,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1783468800000}
+{"CustomerID":598,"Age":22,"Gender":"Female","Income":62907,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1764720000000}
+{"CustomerID":599,"Age":62,"Gender":"Male","Income":70071,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1744588800000}
+{"CustomerID":600,"Age":44,"Gender":"Male","Income":54812,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1746576000000}
+{"CustomerID":601,"Age":69,"Gender":"Male","Income":69570,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1764547200000}
+{"CustomerID":602,"Age":40,"Gender":"Female","Income":70901,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1761264000000}
+{"CustomerID":603,"Age":57,"Gender":"Male","Income":80186,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1728691200000}
+{"CustomerID":604,"Age":31,"Gender":"Male","Income":70251,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1786579200000}
+{"CustomerID":605,"Age":32,"Gender":"Female","Income":85171,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1782950400000}
+{"CustomerID":606,"Age":60,"Gender":"Female","Income":56160,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1756512000000}
+{"CustomerID":607,"Age":50,"Gender":"Female","Income":39156,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1730937600000}
+{"CustomerID":608,"Age":48,"Gender":"Female","Income":96208,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1730678400000}
+{"CustomerID":609,"Age":52,"Gender":"Male","Income":99980,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1770940800000}
+{"CustomerID":610,"Age":34,"Gender":"Male","Income":92320,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1712361600000}
+{"CustomerID":611,"Age":45,"Gender":"Male","Income":37929,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1787356800000}
+{"CustomerID":612,"Age":36,"Gender":"Female","Income":86606,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1713744000000}
+{"CustomerID":613,"Age":63,"Gender":"Female","Income":82559,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1789344000000}
+{"CustomerID":614,"Age":40,"Gender":"Male","Income":74205,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1759017600000}
+{"CustomerID":615,"Age":49,"Gender":"Female","Income":88475,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1743379200000}
+{"CustomerID":616,"Age":57,"Gender":"Female","Income":84341,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1743984000000}
+{"CustomerID":617,"Age":30,"Gender":"Male","Income":62863,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1785888000000}
+{"CustomerID":618,"Age":37,"Gender":"Male","Income":85439,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1715385600000}
+{"CustomerID":619,"Age":52,"Gender":"Female","Income":27194,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1784332800000}
+{"CustomerID":620,"Age":22,"Gender":"Female","Income":91387,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1787356800000}
+{"CustomerID":621,"Age":26,"Gender":"Female","Income":86214,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1784246400000}
+{"CustomerID":622,"Age":46,"Gender":"Male","Income":49777,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1714435200000}
+{"CustomerID":623,"Age":23,"Gender":"Male","Income":46183,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1721001600000}
+{"CustomerID":624,"Age":42,"Gender":"Male","Income":47445,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1773619200000}
+{"CustomerID":625,"Age":48,"Gender":"Male","Income":87038,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1745625600000}
+{"CustomerID":626,"Age":39,"Gender":"Male","Income":36198,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1758758400000}
+{"CustomerID":627,"Age":19,"Gender":"Female","Income":41411,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1772582400000}
+{"CustomerID":628,"Age":62,"Gender":"Female","Income":70577,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1781481600000}
+{"CustomerID":629,"Age":22,"Gender":"Female","Income":35867,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1770681600000}
+{"CustomerID":630,"Age":44,"Gender":"Male","Income":82501,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1707350400000}
+{"CustomerID":631,"Age":42,"Gender":"Male","Income":34266,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1752883200000}
+{"CustomerID":632,"Age":25,"Gender":"Male","Income":59422,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1748217600000}
+{"CustomerID":633,"Age":18,"Gender":"Female","Income":55208,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1744934400000}
+{"CustomerID":634,"Age":37,"Gender":"Male","Income":51213,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1717891200000}
+{"CustomerID":635,"Age":61,"Gender":"Male","Income":27367,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1728950400000}
+{"CustomerID":636,"Age":40,"Gender":"Female","Income":99026,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1721260800000}
+{"CustomerID":637,"Age":49,"Gender":"Male","Income":55362,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1772064000000}
+{"CustomerID":638,"Age":28,"Gender":"Female","Income":71588,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1749600000000}
+{"CustomerID":639,"Age":56,"Gender":"Male","Income":58285,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1783209600000}
+{"CustomerID":640,"Age":64,"Gender":"Male","Income":94755,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1763164800000}
+{"CustomerID":641,"Age":41,"Gender":"Female","Income":91846,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1747440000000}
+{"CustomerID":642,"Age":28,"Gender":"Female","Income":56307,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1725408000000}
+{"CustomerID":643,"Age":46,"Gender":"Female","Income":39867,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1737072000000}
+{"CustomerID":644,"Age":43,"Gender":"Female","Income":76523,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1722816000000}
+{"CustomerID":645,"Age":33,"Gender":"Female","Income":26378,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1711497600000}
+{"CustomerID":646,"Age":52,"Gender":"Female","Income":96958,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1711065600000}
+{"CustomerID":647,"Age":37,"Gender":"Male","Income":47926,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1709337600000}
+{"CustomerID":648,"Age":63,"Gender":"Male","Income":33180,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1773014400000}
+{"CustomerID":649,"Age":20,"Gender":"Female","Income":56931,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1747180800000}
+{"CustomerID":650,"Age":18,"Gender":"Male","Income":44014,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1707609600000}
+{"CustomerID":651,"Age":64,"Gender":"Female","Income":99872,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1705017600000}
+{"CustomerID":652,"Age":18,"Gender":"Male","Income":78502,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1775952000000}
+{"CustomerID":653,"Age":34,"Gender":"Female","Income":25470,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1768435200000}
+{"CustomerID":654,"Age":19,"Gender":"Male","Income":34953,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1776643200000}
+{"CustomerID":655,"Age":46,"Gender":"Male","Income":58507,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1759536000000}
+{"CustomerID":656,"Age":37,"Gender":"Male","Income":26523,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1713916800000}
+{"CustomerID":657,"Age":23,"Gender":"Male","Income":77190,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1722816000000}
+{"CustomerID":658,"Age":25,"Gender":"Male","Income":67761,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1760054400000}
+{"CustomerID":659,"Age":46,"Gender":"Female","Income":51169,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1713139200000}
+{"CustomerID":660,"Age":65,"Gender":"Female","Income":65641,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1763683200000}
+{"CustomerID":661,"Age":68,"Gender":"Female","Income":42990,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1749600000000}
+{"CustomerID":662,"Age":50,"Gender":"Male","Income":49661,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1744761600000}
+{"CustomerID":663,"Age":20,"Gender":"Female","Income":33419,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1769126400000}
+{"CustomerID":664,"Age":52,"Gender":"Male","Income":34457,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1777075200000}
+{"CustomerID":665,"Age":22,"Gender":"Male","Income":87600,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1781136000000}
+{"CustomerID":666,"Age":44,"Gender":"Male","Income":96102,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1737417600000}
+{"CustomerID":667,"Age":61,"Gender":"Female","Income":53085,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1723507200000}
+{"CustomerID":668,"Age":29,"Gender":"Male","Income":70654,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1745539200000}
+{"CustomerID":669,"Age":37,"Gender":"Female","Income":26130,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1769126400000}
+{"CustomerID":670,"Age":62,"Gender":"Female","Income":22042,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1739232000000}
+{"CustomerID":671,"Age":37,"Gender":"Male","Income":90134,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1743465600000}
+{"CustomerID":672,"Age":26,"Gender":"Male","Income":62982,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1760400000000}
+{"CustomerID":673,"Age":56,"Gender":"Female","Income":85185,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1781568000000}
+{"CustomerID":674,"Age":21,"Gender":"Female","Income":53477,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1765411200000}
+{"CustomerID":675,"Age":68,"Gender":"Female","Income":72709,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1757894400000}
+{"CustomerID":676,"Age":36,"Gender":"Female","Income":48716,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1759190400000}
+{"CustomerID":677,"Age":55,"Gender":"Female","Income":98137,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1705795200000}
+{"CustomerID":678,"Age":44,"Gender":"Female","Income":56018,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1760918400000}
+{"CustomerID":679,"Age":62,"Gender":"Male","Income":28061,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1755907200000}
+{"CustomerID":680,"Age":60,"Gender":"Female","Income":28609,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1774396800000}
+{"CustomerID":681,"Age":30,"Gender":"Female","Income":55371,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1783296000000}
+{"CustomerID":682,"Age":30,"Gender":"Female","Income":40805,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1721520000000}
+{"CustomerID":683,"Age":39,"Gender":"Female","Income":27857,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1740009600000}
+{"CustomerID":684,"Age":45,"Gender":"Male","Income":31620,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1739923200000}
+{"CustomerID":685,"Age":69,"Gender":"Male","Income":28177,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1742688000000}
+{"CustomerID":686,"Age":64,"Gender":"Female","Income":50111,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1748217600000}
+{"CustomerID":687,"Age":62,"Gender":"Female","Income":31826,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1711324800000}
+{"CustomerID":688,"Age":39,"Gender":"Female","Income":33890,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1718409600000}
+{"CustomerID":689,"Age":60,"Gender":"Male","Income":78031,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1737158400000}
+{"CustomerID":690,"Age":36,"Gender":"Male","Income":95020,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1744416000000}
+{"CustomerID":691,"Age":25,"Gender":"Male","Income":25495,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1710201600000}
+{"CustomerID":692,"Age":69,"Gender":"Male","Income":48481,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1773964800000}
+{"CustomerID":693,"Age":25,"Gender":"Male","Income":31267,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1790121600000}
+{"CustomerID":694,"Age":59,"Gender":"Male","Income":26743,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1748995200000}
+{"CustomerID":695,"Age":43,"Gender":"Female","Income":74800,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1772496000000}
+{"CustomerID":696,"Age":65,"Gender":"Male","Income":68773,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1744848000000}
+{"CustomerID":697,"Age":68,"Gender":"Male","Income":77042,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1789776000000}
+{"CustomerID":698,"Age":43,"Gender":"Female","Income":69476,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1726272000000}
+{"CustomerID":699,"Age":40,"Gender":"Male","Income":48552,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1727740800000}
+{"CustomerID":700,"Age":60,"Gender":"Female","Income":85242,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1768780800000}
+{"CustomerID":701,"Age":30,"Gender":"Male","Income":65772,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1705708800000}
+{"CustomerID":702,"Age":45,"Gender":"Female","Income":63730,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1746316800000}
+{"CustomerID":703,"Age":26,"Gender":"Female","Income":48948,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1768348800000}
+{"CustomerID":704,"Age":37,"Gender":"Female","Income":96311,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1746316800000}
+{"CustomerID":705,"Age":36,"Gender":"Female","Income":89093,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1767312000000}
+{"CustomerID":706,"Age":65,"Gender":"Female","Income":89123,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1732147200000}
+{"CustomerID":707,"Age":56,"Gender":"Male","Income":36535,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1749686400000}
+{"CustomerID":708,"Age":68,"Gender":"Male","Income":86490,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1781049600000}
+{"CustomerID":709,"Age":29,"Gender":"Female","Income":66562,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1711670400000}
+{"CustomerID":710,"Age":32,"Gender":"Female","Income":78535,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1745971200000}
+{"CustomerID":711,"Age":48,"Gender":"Female","Income":61269,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1765152000000}
+{"CustomerID":712,"Age":31,"Gender":"Male","Income":62462,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1734220800000}
+{"CustomerID":713,"Age":28,"Gender":"Female","Income":23127,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1711238400000}
+{"CustomerID":714,"Age":43,"Gender":"Female","Income":43147,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1737417600000}
+{"CustomerID":715,"Age":59,"Gender":"Female","Income":65528,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1711497600000}
+{"CustomerID":716,"Age":44,"Gender":"Female","Income":97095,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1730505600000}
+{"CustomerID":717,"Age":28,"Gender":"Male","Income":88931,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1777420800000}
+{"CustomerID":718,"Age":55,"Gender":"Female","Income":86381,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1717286400000}
+{"CustomerID":719,"Age":51,"Gender":"Female","Income":83749,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1741996800000}
+{"CustomerID":720,"Age":60,"Gender":"Male","Income":58672,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1767916800000}
+{"CustomerID":721,"Age":36,"Gender":"Female","Income":33731,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1786924800000}
+{"CustomerID":722,"Age":23,"Gender":"Female","Income":74512,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1726790400000}
+{"CustomerID":723,"Age":63,"Gender":"Male","Income":71024,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1788393600000}
+{"CustomerID":724,"Age":69,"Gender":"Male","Income":23832,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1767484800000}
+{"CustomerID":725,"Age":55,"Gender":"Male","Income":52332,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1740355200000}
+{"CustomerID":726,"Age":66,"Gender":"Female","Income":32467,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1746576000000}
+{"CustomerID":727,"Age":59,"Gender":"Female","Income":61025,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1758672000000}
+{"CustomerID":728,"Age":45,"Gender":"Male","Income":33107,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1789776000000}
+{"CustomerID":729,"Age":18,"Gender":"Male","Income":97994,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1739491200000}
+{"CustomerID":730,"Age":52,"Gender":"Male","Income":63481,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1718928000000}
+{"CustomerID":731,"Age":57,"Gender":"Female","Income":22581,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1704326400000}
+{"CustomerID":732,"Age":25,"Gender":"Female","Income":95118,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1777766400000}
+{"CustomerID":733,"Age":69,"Gender":"Male","Income":71638,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1759276800000}
+{"CustomerID":734,"Age":64,"Gender":"Female","Income":28418,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1789171200000}
+{"CustomerID":735,"Age":24,"Gender":"Male","Income":49113,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1789689600000}
+{"CustomerID":736,"Age":28,"Gender":"Female","Income":83044,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1744761600000}
+{"CustomerID":737,"Age":56,"Gender":"Female","Income":99955,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1713484800000}
+{"CustomerID":738,"Age":21,"Gender":"Female","Income":81030,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1778889600000}
+{"CustomerID":739,"Age":42,"Gender":"Female","Income":31814,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1707177600000}
+{"CustomerID":740,"Age":29,"Gender":"Male","Income":30024,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1789689600000}
+{"CustomerID":741,"Age":43,"Gender":"Female","Income":83288,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1754352000000}
+{"CustomerID":742,"Age":55,"Gender":"Female","Income":77836,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1773187200000}
+{"CustomerID":743,"Age":63,"Gender":"Male","Income":27435,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1706659200000}
+{"CustomerID":744,"Age":29,"Gender":"Female","Income":87084,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1786147200000}
+{"CustomerID":745,"Age":60,"Gender":"Male","Income":90601,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1736899200000}
+{"CustomerID":746,"Age":68,"Gender":"Male","Income":23407,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1727136000000}
+{"CustomerID":747,"Age":54,"Gender":"Female","Income":52940,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1704931200000}
+{"CustomerID":748,"Age":63,"Gender":"Female","Income":25666,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1733702400000}
+{"CustomerID":749,"Age":41,"Gender":"Male","Income":57122,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1776556800000}
+{"CustomerID":750,"Age":33,"Gender":"Male","Income":45092,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1750982400000}
+{"CustomerID":751,"Age":30,"Gender":"Male","Income":95645,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1753142400000}
+{"CustomerID":752,"Age":42,"Gender":"Female","Income":46505,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1718323200000}
+{"CustomerID":753,"Age":69,"Gender":"Male","Income":56713,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1764460800000}
+{"CustomerID":754,"Age":21,"Gender":"Male","Income":74387,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1733529600000}
+{"CustomerID":755,"Age":28,"Gender":"Male","Income":63169,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1745625600000}
+{"CustomerID":756,"Age":49,"Gender":"Female","Income":93282,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1705622400000}
+{"CustomerID":757,"Age":66,"Gender":"Male","Income":97511,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1758240000000}
+{"CustomerID":758,"Age":24,"Gender":"Female","Income":71742,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1788652800000}
+{"CustomerID":759,"Age":63,"Gender":"Female","Income":60522,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1719878400000}
+{"CustomerID":760,"Age":28,"Gender":"Male","Income":23880,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1771545600000}
+{"CustomerID":761,"Age":45,"Gender":"Female","Income":63454,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1751068800000}
+{"CustomerID":762,"Age":58,"Gender":"Male","Income":75711,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1704844800000}
+{"CustomerID":763,"Age":40,"Gender":"Female","Income":63539,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1755129600000}
+{"CustomerID":764,"Age":62,"Gender":"Female","Income":88321,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1720569600000}
+{"CustomerID":765,"Age":40,"Gender":"Male","Income":34799,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1731628800000}
+{"CustomerID":766,"Age":67,"Gender":"Male","Income":80102,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1764633600000}
+{"CustomerID":767,"Age":45,"Gender":"Male","Income":70726,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1754092800000}
+{"CustomerID":768,"Age":60,"Gender":"Female","Income":68784,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1745020800000}
+{"CustomerID":769,"Age":64,"Gender":"Female","Income":63333,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1778284800000}
+{"CustomerID":770,"Age":43,"Gender":"Male","Income":60828,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1759017600000}
+{"CustomerID":771,"Age":42,"Gender":"Male","Income":89526,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1740873600000}
+{"CustomerID":772,"Age":46,"Gender":"Female","Income":74362,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1777248000000}
+{"CustomerID":773,"Age":36,"Gender":"Female","Income":73997,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1709078400000}
+{"CustomerID":774,"Age":50,"Gender":"Female","Income":70341,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1741651200000}
+{"CustomerID":775,"Age":53,"Gender":"Male","Income":39073,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1712361600000}
+{"CustomerID":776,"Age":31,"Gender":"Female","Income":34549,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1746835200000}
+{"CustomerID":777,"Age":31,"Gender":"Male","Income":76920,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1771977600000}
+{"CustomerID":778,"Age":52,"Gender":"Female","Income":95515,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1761091200000}
+{"CustomerID":779,"Age":47,"Gender":"Female","Income":40316,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1728000000000}
+{"CustomerID":780,"Age":45,"Gender":"Male","Income":46183,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1726876800000}
+{"CustomerID":781,"Age":34,"Gender":"Male","Income":44624,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1704758400000}
+{"CustomerID":782,"Age":20,"Gender":"Male","Income":82515,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1743465600000}
+{"CustomerID":783,"Age":33,"Gender":"Female","Income":66705,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1772668800000}
+{"CustomerID":784,"Age":63,"Gender":"Female","Income":46756,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1727568000000}
+{"CustomerID":785,"Age":47,"Gender":"Female","Income":80390,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1785196800000}
+{"CustomerID":786,"Age":69,"Gender":"Male","Income":88369,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1774224000000}
+{"CustomerID":787,"Age":46,"Gender":"Female","Income":90821,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1704672000000}
+{"CustomerID":788,"Age":62,"Gender":"Male","Income":29589,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1721952000000}
+{"CustomerID":789,"Age":32,"Gender":"Male","Income":34116,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1782950400000}
+{"CustomerID":790,"Age":63,"Gender":"Male","Income":93181,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1759017600000}
+{"CustomerID":791,"Age":42,"Gender":"Female","Income":64786,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1714608000000}
+{"CustomerID":792,"Age":68,"Gender":"Female","Income":96425,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1706832000000}
+{"CustomerID":793,"Age":55,"Gender":"Male","Income":50286,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1748304000000}
+{"CustomerID":794,"Age":59,"Gender":"Female","Income":35994,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1721606400000}
+{"CustomerID":795,"Age":64,"Gender":"Male","Income":46639,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1748736000000}
+{"CustomerID":796,"Age":69,"Gender":"Male","Income":37205,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1773878400000}
+{"CustomerID":797,"Age":55,"Gender":"Female","Income":76677,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1786147200000}
+{"CustomerID":798,"Age":40,"Gender":"Male","Income":52930,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1748649600000}
+{"CustomerID":799,"Age":42,"Gender":"Male","Income":93313,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1742256000000}
+{"CustomerID":800,"Age":59,"Gender":"Female","Income":38316,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1755129600000}
+{"CustomerID":801,"Age":24,"Gender":"Male","Income":47304,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1771891200000}
+{"CustomerID":802,"Age":39,"Gender":"Male","Income":33403,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1763510400000}
+{"CustomerID":803,"Age":34,"Gender":"Male","Income":93495,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1777420800000}
+{"CustomerID":804,"Age":35,"Gender":"Male","Income":51932,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1775952000000}
+{"CustomerID":805,"Age":66,"Gender":"Male","Income":56701,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1733270400000}
+{"CustomerID":806,"Age":58,"Gender":"Male","Income":23385,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1741824000000}
+{"CustomerID":807,"Age":27,"Gender":"Male","Income":77241,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1742428800000}
+{"CustomerID":808,"Age":27,"Gender":"Female","Income":30367,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1715731200000}
+{"CustomerID":809,"Age":24,"Gender":"Female","Income":85030,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1737417600000}
+{"CustomerID":810,"Age":65,"Gender":"Male","Income":66505,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1706140800000}
+{"CustomerID":811,"Age":67,"Gender":"Male","Income":53332,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1747699200000}
+{"CustomerID":812,"Age":55,"Gender":"Female","Income":96325,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1732060800000}
+{"CustomerID":813,"Age":44,"Gender":"Female","Income":55268,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1764028800000}
+{"CustomerID":814,"Age":69,"Gender":"Female","Income":45563,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1762732800000}
+{"CustomerID":815,"Age":50,"Gender":"Female","Income":56404,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1788566400000}
+{"CustomerID":816,"Age":18,"Gender":"Female","Income":75182,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1733184000000}
+{"CustomerID":817,"Age":61,"Gender":"Male","Income":52991,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1763596800000}
+{"CustomerID":818,"Age":51,"Gender":"Female","Income":67663,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1780444800000}
+{"CustomerID":819,"Age":21,"Gender":"Female","Income":85886,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1712188800000}
+{"CustomerID":820,"Age":34,"Gender":"Female","Income":44127,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1751068800000}
+{"CustomerID":821,"Age":21,"Gender":"Male","Income":77692,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1757808000000}
+{"CustomerID":822,"Age":60,"Gender":"Male","Income":57500,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1716595200000}
+{"CustomerID":823,"Age":43,"Gender":"Male","Income":53785,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1781136000000}
+{"CustomerID":824,"Age":21,"Gender":"Male","Income":67997,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1786320000000}
+{"CustomerID":825,"Age":18,"Gender":"Male","Income":27170,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1723939200000}
+{"CustomerID":826,"Age":24,"Gender":"Male","Income":33303,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1771718400000}
+{"CustomerID":827,"Age":47,"Gender":"Female","Income":91743,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1777248000000}
+{"CustomerID":828,"Age":67,"Gender":"Male","Income":97852,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1746748800000}
+{"CustomerID":829,"Age":26,"Gender":"Male","Income":55187,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1707264000000}
+{"CustomerID":830,"Age":52,"Gender":"Female","Income":85034,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1740700800000}
+{"CustomerID":831,"Age":25,"Gender":"Male","Income":91776,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1759881600000}
+{"CustomerID":832,"Age":41,"Gender":"Female","Income":21893,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1777075200000}
+{"CustomerID":833,"Age":36,"Gender":"Female","Income":33753,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1768521600000}
+{"CustomerID":834,"Age":53,"Gender":"Male","Income":58090,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1741737600000}
+{"CustomerID":835,"Age":67,"Gender":"Female","Income":84922,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1775779200000}
+{"CustomerID":836,"Age":69,"Gender":"Female","Income":96768,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1735776000000}
+{"CustomerID":837,"Age":60,"Gender":"Female","Income":79412,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1733788800000}
+{"CustomerID":838,"Age":44,"Gender":"Female","Income":76030,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1717804800000}
+{"CustomerID":839,"Age":49,"Gender":"Male","Income":37509,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1751500800000}
+{"CustomerID":840,"Age":31,"Gender":"Female","Income":88653,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1761177600000}
+{"CustomerID":841,"Age":35,"Gender":"Male","Income":56929,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1782777600000}
+{"CustomerID":842,"Age":45,"Gender":"Female","Income":68291,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1774828800000}
+{"CustomerID":843,"Age":46,"Gender":"Female","Income":24042,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1750723200000}
+{"CustomerID":844,"Age":33,"Gender":"Female","Income":82574,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1716422400000}
+{"CustomerID":845,"Age":52,"Gender":"Male","Income":57201,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1754784000000}
+{"CustomerID":846,"Age":64,"Gender":"Male","Income":34016,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1760745600000}
+{"CustomerID":847,"Age":48,"Gender":"Male","Income":45022,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1768003200000}
+{"CustomerID":848,"Age":21,"Gender":"Female","Income":47938,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1753747200000}
+{"CustomerID":849,"Age":54,"Gender":"Female","Income":63678,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1778198400000}
+{"CustomerID":850,"Age":34,"Gender":"Female","Income":81720,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1733788800000}
+{"CustomerID":851,"Age":56,"Gender":"Female","Income":76805,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1727222400000}
+{"CustomerID":852,"Age":65,"Gender":"Male","Income":94323,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1776556800000}
+{"CustomerID":853,"Age":63,"Gender":"Female","Income":21986,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1764115200000}
+{"CustomerID":854,"Age":43,"Gender":"Male","Income":96478,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1770768000000}
+{"CustomerID":855,"Age":65,"Gender":"Female","Income":32161,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1727136000000}
+{"CustomerID":856,"Age":56,"Gender":"Male","Income":40689,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1718582400000}
+{"CustomerID":857,"Age":58,"Gender":"Male","Income":80924,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1770595200000}
+{"CustomerID":858,"Age":21,"Gender":"Female","Income":94308,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1767830400000}
+{"CustomerID":859,"Age":47,"Gender":"Female","Income":83745,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1706832000000}
+{"CustomerID":860,"Age":47,"Gender":"Male","Income":21211,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1736553600000}
+{"CustomerID":861,"Age":39,"Gender":"Female","Income":20229,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1722470400000}
+{"CustomerID":862,"Age":28,"Gender":"Female","Income":68542,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1752537600000}
+{"CustomerID":863,"Age":19,"Gender":"Male","Income":34345,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1741996800000}
+{"CustomerID":864,"Age":61,"Gender":"Male","Income":51819,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1746489600000}
+{"CustomerID":865,"Age":29,"Gender":"Male","Income":67779,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1737936000000}
+{"CustomerID":866,"Age":47,"Gender":"Male","Income":85584,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1746230400000}
+{"CustomerID":867,"Age":53,"Gender":"Female","Income":39950,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1766361600000}
+{"CustomerID":868,"Age":35,"Gender":"Male","Income":35173,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1785715200000}
+{"CustomerID":869,"Age":43,"Gender":"Male","Income":78032,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1706486400000}
+{"CustomerID":870,"Age":24,"Gender":"Male","Income":48036,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1707350400000}
+{"CustomerID":871,"Age":18,"Gender":"Female","Income":91356,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1778198400000}
+{"CustomerID":872,"Age":43,"Gender":"Male","Income":34292,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1756857600000}
+{"CustomerID":873,"Age":40,"Gender":"Female","Income":23052,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1718928000000}
+{"CustomerID":874,"Age":43,"Gender":"Male","Income":64377,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1705449600000}
+{"CustomerID":875,"Age":62,"Gender":"Male","Income":87838,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1708819200000}
+{"CustomerID":876,"Age":23,"Gender":"Female","Income":87819,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1723507200000}
+{"CustomerID":877,"Age":23,"Gender":"Male","Income":35620,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1752192000000}
+{"CustomerID":878,"Age":61,"Gender":"Male","Income":50461,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1709769600000}
+{"CustomerID":879,"Age":25,"Gender":"Female","Income":40750,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1721001600000}
+{"CustomerID":880,"Age":41,"Gender":"Male","Income":29472,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1760486400000}
+{"CustomerID":881,"Age":39,"Gender":"Male","Income":89263,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1776124800000}
+{"CustomerID":882,"Age":36,"Gender":"Male","Income":77602,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1705968000000}
+{"CustomerID":883,"Age":54,"Gender":"Male","Income":45523,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1790294400000}
+{"CustomerID":884,"Age":35,"Gender":"Female","Income":50766,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1756339200000}
+{"CustomerID":885,"Age":48,"Gender":"Male","Income":86060,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1769126400000}
+{"CustomerID":886,"Age":54,"Gender":"Female","Income":29079,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1724457600000}
+{"CustomerID":887,"Age":47,"Gender":"Male","Income":28399,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1786665600000}
+{"CustomerID":888,"Age":59,"Gender":"Female","Income":80726,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1783382400000}
+{"CustomerID":889,"Age":50,"Gender":"Male","Income":36532,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1783728000000}
+{"CustomerID":890,"Age":27,"Gender":"Female","Income":63162,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1752883200000}
+{"CustomerID":891,"Age":54,"Gender":"Male","Income":23749,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1715904000000}
+{"CustomerID":892,"Age":29,"Gender":"Female","Income":31353,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1744848000000}
+{"CustomerID":893,"Age":47,"Gender":"Female","Income":48477,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1776988800000}
+{"CustomerID":894,"Age":44,"Gender":"Male","Income":44570,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1771718400000}
+{"CustomerID":895,"Age":56,"Gender":"Female","Income":31437,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1751760000000}
+{"CustomerID":896,"Age":26,"Gender":"Male","Income":58104,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1756684800000}
+{"CustomerID":897,"Age":38,"Gender":"Male","Income":83370,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1764028800000}
+{"CustomerID":898,"Age":29,"Gender":"Male","Income":24551,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1759276800000}
+{"CustomerID":899,"Age":46,"Gender":"Male","Income":88359,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1723766400000}
+{"CustomerID":900,"Age":50,"Gender":"Male","Income":74880,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1731369600000}
+{"CustomerID":901,"Age":60,"Gender":"Female","Income":32916,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1755648000000}
+{"CustomerID":902,"Age":32,"Gender":"Male","Income":61445,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1770336000000}
+{"CustomerID":903,"Age":19,"Gender":"Male","Income":67636,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1766275200000}
+{"CustomerID":904,"Age":69,"Gender":"Male","Income":93927,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1766793600000}
+{"CustomerID":905,"Age":56,"Gender":"Male","Income":98194,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1780531200000}
+{"CustomerID":906,"Age":61,"Gender":"Male","Income":49685,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1756857600000}
+{"CustomerID":907,"Age":35,"Gender":"Male","Income":71134,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1752451200000}
+{"CustomerID":908,"Age":20,"Gender":"Female","Income":87847,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1721347200000}
+{"CustomerID":909,"Age":24,"Gender":"Female","Income":59993,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1785888000000}
+{"CustomerID":910,"Age":60,"Gender":"Male","Income":64333,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1726272000000}
+{"CustomerID":911,"Age":35,"Gender":"Female","Income":78865,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1745452800000}
+{"CustomerID":912,"Age":61,"Gender":"Male","Income":99096,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1780704000000}
+{"CustomerID":913,"Age":55,"Gender":"Male","Income":69756,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1719360000000}
+{"CustomerID":914,"Age":54,"Gender":"Male","Income":81192,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1769385600000}
+{"CustomerID":915,"Age":50,"Gender":"Male","Income":80686,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1714608000000}
+{"CustomerID":916,"Age":61,"Gender":"Male","Income":68733,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1733529600000}
+{"CustomerID":917,"Age":48,"Gender":"Female","Income":45993,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1718755200000}
+{"CustomerID":918,"Age":28,"Gender":"Female","Income":50492,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1776988800000}
+{"CustomerID":919,"Age":21,"Gender":"Female","Income":40981,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1759968000000}
+{"CustomerID":920,"Age":35,"Gender":"Female","Income":44143,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1709078400000}
+{"CustomerID":921,"Age":21,"Gender":"Male","Income":97603,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1764892800000}
+{"CustomerID":922,"Age":66,"Gender":"Female","Income":80277,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1744156800000}
+{"CustomerID":923,"Age":51,"Gender":"Male","Income":69990,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1771372800000}
+{"CustomerID":924,"Age":46,"Gender":"Female","Income":82888,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1726444800000}
+{"CustomerID":925,"Age":41,"Gender":"Female","Income":89351,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1736208000000}
+{"CustomerID":926,"Age":39,"Gender":"Female","Income":69999,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1788048000000}
+{"CustomerID":927,"Age":19,"Gender":"Female","Income":90309,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1712188800000}
+{"CustomerID":928,"Age":61,"Gender":"Male","Income":32446,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1714780800000}
+{"CustomerID":929,"Age":23,"Gender":"Female","Income":50733,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1707523200000}
+{"CustomerID":930,"Age":59,"Gender":"Female","Income":96000,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1780963200000}
+{"CustomerID":931,"Age":42,"Gender":"Male","Income":68632,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1725926400000}
+{"CustomerID":932,"Age":38,"Gender":"Male","Income":41576,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1704585600000}
+{"CustomerID":933,"Age":33,"Gender":"Female","Income":23320,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1744675200000}
+{"CustomerID":934,"Age":48,"Gender":"Male","Income":30750,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1766880000000}
+{"CustomerID":935,"Age":31,"Gender":"Male","Income":73463,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1748131200000}
+{"CustomerID":936,"Age":56,"Gender":"Male","Income":46572,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1754179200000}
+{"CustomerID":937,"Age":45,"Gender":"Female","Income":37948,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1709942400000}
+{"CustomerID":938,"Age":49,"Gender":"Male","Income":58826,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1710979200000}
+{"CustomerID":939,"Age":45,"Gender":"Female","Income":47867,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1750809600000}
+{"CustomerID":940,"Age":68,"Gender":"Female","Income":80231,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1754524800000}
+{"CustomerID":941,"Age":66,"Gender":"Female","Income":86262,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1726617600000}
+{"CustomerID":942,"Age":26,"Gender":"Female","Income":92233,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1711670400000}
+{"CustomerID":943,"Age":62,"Gender":"Male","Income":64678,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1783036800000}
+{"CustomerID":944,"Age":39,"Gender":"Female","Income":32963,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1721952000000}
+{"CustomerID":945,"Age":49,"Gender":"Male","Income":84360,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1722384000000}
+{"CustomerID":946,"Age":22,"Gender":"Female","Income":69434,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1776038400000}
+{"CustomerID":947,"Age":40,"Gender":"Male","Income":86617,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1726963200000}
+{"CustomerID":948,"Age":22,"Gender":"Female","Income":40269,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1782777600000}
+{"CustomerID":949,"Age":59,"Gender":"Male","Income":96312,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1729296000000}
+{"CustomerID":950,"Age":49,"Gender":"Female","Income":99732,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1721865600000}
+{"CustomerID":951,"Age":27,"Gender":"Female","Income":97225,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1732752000000}
+{"CustomerID":952,"Age":56,"Gender":"Male","Income":57528,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1710633600000}
+{"CustomerID":953,"Age":32,"Gender":"Female","Income":98972,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1728864000000}
+{"CustomerID":954,"Age":24,"Gender":"Female","Income":85602,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1708041600000}
+{"CustomerID":955,"Age":46,"Gender":"Female","Income":53332,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1757721600000}
+{"CustomerID":956,"Age":64,"Gender":"Male","Income":98929,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1721260800000}
+{"CustomerID":957,"Age":20,"Gender":"Female","Income":89206,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1740873600000}
+{"CustomerID":958,"Age":36,"Gender":"Female","Income":22251,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1722124800000}
+{"CustomerID":959,"Age":27,"Gender":"Male","Income":65717,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1780704000000}
+{"CustomerID":960,"Age":45,"Gender":"Male","Income":47027,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1740268800000}
+{"CustomerID":961,"Age":46,"Gender":"Male","Income":29583,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1717286400000}
+{"CustomerID":962,"Age":32,"Gender":"Male","Income":70387,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1749081600000}
+{"CustomerID":963,"Age":52,"Gender":"Male","Income":43104,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1739836800000}
+{"CustomerID":964,"Age":23,"Gender":"Female","Income":32224,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1734480000000}
+{"CustomerID":965,"Age":29,"Gender":"Female","Income":80624,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1717545600000}
+{"CustomerID":966,"Age":64,"Gender":"Female","Income":76058,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1726531200000}
+{"CustomerID":967,"Age":55,"Gender":"Male","Income":49299,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1710633600000}
+{"CustomerID":968,"Age":30,"Gender":"Female","Income":98572,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1770422400000}
+{"CustomerID":969,"Age":46,"Gender":"Male","Income":97928,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1788912000000}
+{"CustomerID":970,"Age":36,"Gender":"Male","Income":93474,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1746144000000}
+{"CustomerID":971,"Age":20,"Gender":"Female","Income":24141,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1715299200000}
+{"CustomerID":972,"Age":25,"Gender":"Male","Income":43350,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1754006400000}
+{"CustomerID":973,"Age":25,"Gender":"Male","Income":95082,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1743292800000}
+{"CustomerID":974,"Age":37,"Gender":"Female","Income":90871,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1767916800000}
+{"CustomerID":975,"Age":64,"Gender":"Male","Income":25077,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1718064000000}
+{"CustomerID":976,"Age":21,"Gender":"Male","Income":66015,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1705276800000}
+{"CustomerID":977,"Age":68,"Gender":"Female","Income":91147,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1724025600000}
+{"CustomerID":978,"Age":38,"Gender":"Male","Income":79180,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1720828800000}
+{"CustomerID":979,"Age":20,"Gender":"Male","Income":60857,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1778371200000}
+{"CustomerID":980,"Age":62,"Gender":"Female","Income":79840,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1750809600000}
+{"CustomerID":981,"Age":25,"Gender":"Female","Income":79902,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1734998400000}
+{"CustomerID":982,"Age":40,"Gender":"Female","Income":25577,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1777420800000}
+{"CustomerID":983,"Age":33,"Gender":"Female","Income":40002,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1732579200000}
+{"CustomerID":984,"Age":30,"Gender":"Male","Income":70711,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1740873600000}
+{"CustomerID":985,"Age":20,"Gender":"Male","Income":59451,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1746921600000}
+{"CustomerID":986,"Age":65,"Gender":"Female","Income":69103,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1775520000000}
+{"CustomerID":987,"Age":26,"Gender":"Male","Income":48647,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1745971200000}
+{"CustomerID":988,"Age":31,"Gender":"Male","Income":54831,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1773792000000}
+{"CustomerID":989,"Age":30,"Gender":"Female","Income":86830,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1742774400000}
+{"CustomerID":990,"Age":24,"Gender":"Female","Income":56833,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1739664000000}
+{"CustomerID":991,"Age":32,"Gender":"Male","Income":44398,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1732492800000}
+{"CustomerID":992,"Age":24,"Gender":"Female","Income":81554,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1767225600000}
+{"CustomerID":993,"Age":55,"Gender":"Female","Income":70755,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1780790400000}
+{"CustomerID":994,"Age":51,"Gender":"Female","Income":37706,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1789603200000}
+{"CustomerID":995,"Age":58,"Gender":"Male","Income":42340,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1716681600000}
+{"CustomerID":996,"Age":39,"Gender":"Female","Income":84994,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1726358400000}
+{"CustomerID":997,"Age":41,"Gender":"Male","Income":83884,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1729209600000}
+{"CustomerID":998,"Age":66,"Gender":"Male","Income":37482,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1774051200000}
+{"CustomerID":999,"Age":54,"Gender":"Male","Income":74225,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1716336000000}
+{"CustomerID":1000,"Age":61,"Gender":"Female","Income":78849,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1789776000000}
+{"CustomerID":1001,"Age":18,"Gender":"Female","Income":94854,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1784937600000}
+{"CustomerID":1002,"Age":27,"Gender":"Female","Income":61256,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1768521600000}
+{"CustomerID":1003,"Age":60,"Gender":"Female","Income":34650,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1758153600000}
+{"CustomerID":1004,"Age":33,"Gender":"Female","Income":66118,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1735516800000}
+{"CustomerID":1005,"Age":63,"Gender":"Male","Income":48930,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1711756800000}
+{"CustomerID":1006,"Age":25,"Gender":"Male","Income":31801,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1766188800000}
+{"CustomerID":1007,"Age":66,"Gender":"Male","Income":71360,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1718150400000}
+{"CustomerID":1008,"Age":42,"Gender":"Female","Income":36559,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1745539200000}
+{"CustomerID":1009,"Age":67,"Gender":"Male","Income":52334,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1711238400000}
+{"CustomerID":1010,"Age":29,"Gender":"Male","Income":33288,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1710633600000}
+{"CustomerID":1011,"Age":42,"Gender":"Female","Income":42398,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1762128000000}
+{"CustomerID":1012,"Age":34,"Gender":"Female","Income":96230,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1748649600000}
+{"CustomerID":1013,"Age":43,"Gender":"Male","Income":32191,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1745884800000}
+{"CustomerID":1014,"Age":63,"Gender":"Male","Income":38051,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1754956800000}
+{"CustomerID":1015,"Age":65,"Gender":"Female","Income":81715,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1756080000000}
+{"CustomerID":1016,"Age":31,"Gender":"Female","Income":30737,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1755734400000}
+{"CustomerID":1017,"Age":58,"Gender":"Female","Income":85140,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1771545600000}
+{"CustomerID":1018,"Age":53,"Gender":"Female","Income":45251,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1712966400000}
+{"CustomerID":1019,"Age":40,"Gender":"Male","Income":70975,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1743033600000}
+{"CustomerID":1020,"Age":60,"Gender":"Male","Income":25147,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1746057600000}
+{"CustomerID":1021,"Age":23,"Gender":"Female","Income":70508,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1733270400000}
+{"CustomerID":1022,"Age":64,"Gender":"Male","Income":72224,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1763337600000}
+{"CustomerID":1023,"Age":22,"Gender":"Male","Income":39643,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1752883200000}
+{"CustomerID":1024,"Age":60,"Gender":"Female","Income":58967,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1781740800000}
+{"CustomerID":1025,"Age":42,"Gender":"Male","Income":60733,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1745280000000}
+{"CustomerID":1026,"Age":35,"Gender":"Male","Income":54808,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1766448000000}
+{"CustomerID":1027,"Age":30,"Gender":"Male","Income":87288,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1756425600000}
+{"CustomerID":1028,"Age":60,"Gender":"Female","Income":78959,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1723248000000}
+{"CustomerID":1029,"Age":31,"Gender":"Female","Income":21849,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1704758400000}
+{"CustomerID":1030,"Age":45,"Gender":"Male","Income":88178,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1708560000000}
+{"CustomerID":1031,"Age":35,"Gender":"Female","Income":87136,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1710633600000}
+{"CustomerID":1032,"Age":45,"Gender":"Female","Income":80740,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1766016000000}
+{"CustomerID":1033,"Age":68,"Gender":"Female","Income":64565,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1747440000000}
+{"CustomerID":1034,"Age":44,"Gender":"Male","Income":40183,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1731283200000}
+{"CustomerID":1035,"Age":49,"Gender":"Male","Income":21132,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1774310400000}
+{"CustomerID":1036,"Age":64,"Gender":"Female","Income":58259,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1775001600000}
+{"CustomerID":1037,"Age":26,"Gender":"Male","Income":83668,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1776729600000}
+{"CustomerID":1038,"Age":57,"Gender":"Male","Income":58563,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1757894400000}
+{"CustomerID":1039,"Age":49,"Gender":"Male","Income":30931,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1778544000000}
+{"CustomerID":1040,"Age":37,"Gender":"Male","Income":93169,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1718236800000}
+{"CustomerID":1041,"Age":45,"Gender":"Male","Income":70639,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1728086400000}
+{"CustomerID":1042,"Age":50,"Gender":"Female","Income":78901,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1706313600000}
+{"CustomerID":1043,"Age":21,"Gender":"Male","Income":21044,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1710028800000}
+{"CustomerID":1044,"Age":63,"Gender":"Male","Income":66691,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1722816000000}
+{"CustomerID":1045,"Age":51,"Gender":"Male","Income":44363,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1787097600000}
+{"CustomerID":1046,"Age":65,"Gender":"Female","Income":66694,"City":"San Francisco","SubscriptionPlan":"Premium","JoinDate":1735516800000}
+{"CustomerID":1047,"Age":20,"Gender":"Female","Income":21582,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1764547200000}
+{"CustomerID":1048,"Age":43,"Gender":"Female","Income":99910,"City":"Chicago","SubscriptionPlan":"Premium","JoinDate":1776988800000}
+{"CustomerID":1049,"Age":25,"Gender":"Male","Income":86844,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1785801600000}
+{"CustomerID":1050,"Age":23,"Gender":"Female","Income":41301,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1730419200000}
+{"CustomerID":1051,"Age":33,"Gender":"Female","Income":94329,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1714694400000}
+{"CustomerID":1052,"Age":41,"Gender":"Female","Income":21620,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1705622400000}
+{"CustomerID":1053,"Age":65,"Gender":"Female","Income":82224,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1726185600000}
+{"CustomerID":1054,"Age":56,"Gender":"Male","Income":76655,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1729555200000}
+{"CustomerID":1055,"Age":47,"Gender":"Female","Income":57534,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1784160000000}
+{"CustomerID":1056,"Age":62,"Gender":"Female","Income":59390,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1705881600000}
+{"CustomerID":1057,"Age":30,"Gender":"Male","Income":91629,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1780012800000}
+{"CustomerID":1058,"Age":22,"Gender":"Male","Income":75856,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1789430400000}
+{"CustomerID":1059,"Age":42,"Gender":"Female","Income":69252,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1742860800000}
+{"CustomerID":1060,"Age":37,"Gender":"Male","Income":75809,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1751673600000}
+{"CustomerID":1061,"Age":35,"Gender":"Female","Income":42259,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1751500800000}
+{"CustomerID":1062,"Age":64,"Gender":"Male","Income":40655,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1708128000000}
+{"CustomerID":1063,"Age":35,"Gender":"Male","Income":53005,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1764028800000}
+{"CustomerID":1064,"Age":19,"Gender":"Female","Income":51629,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1754697600000}
+{"CustomerID":1065,"Age":27,"Gender":"Male","Income":43610,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1766275200000}
+{"CustomerID":1066,"Age":62,"Gender":"Female","Income":77184,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1719792000000}
+{"CustomerID":1067,"Age":67,"Gender":"Male","Income":41602,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1741564800000}
+{"CustomerID":1068,"Age":64,"Gender":"Female","Income":31110,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1713225600000}
+{"CustomerID":1069,"Age":29,"Gender":"Male","Income":26073,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1720224000000}
+{"CustomerID":1070,"Age":64,"Gender":"Male","Income":30195,"City":"San Francisco","SubscriptionPlan":"Gold","JoinDate":1771027200000}
+{"CustomerID":1071,"Age":30,"Gender":"Male","Income":21537,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1711411200000}
+{"CustomerID":1072,"Age":67,"Gender":"Male","Income":37138,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1776211200000}
+{"CustomerID":1073,"Age":64,"Gender":"Male","Income":64328,"City":"San Francisco","SubscriptionPlan":"Basic","JoinDate":1776816000000}
+{"CustomerID":1074,"Age":28,"Gender":"Female","Income":66202,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1743379200000}
+{"CustomerID":1075,"Age":36,"Gender":"Male","Income":60164,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1715817600000}
+{"CustomerID":1076,"Age":52,"Gender":"Female","Income":74659,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1778112000000}
+{"CustomerID":1077,"Age":56,"Gender":"Female","Income":69692,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1781568000000}
+{"CustomerID":1078,"Age":43,"Gender":"Female","Income":44845,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1733011200000}
+{"CustomerID":1079,"Age":63,"Gender":"Male","Income":50562,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1756425600000}
+{"CustomerID":1080,"Age":31,"Gender":"Female","Income":48036,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1776384000000}
+{"CustomerID":1081,"Age":62,"Gender":"Male","Income":80752,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1769385600000}
+{"CustomerID":1082,"Age":61,"Gender":"Female","Income":94233,"City":"New York","SubscriptionPlan":"Gold","JoinDate":1744502400000}
+{"CustomerID":1083,"Age":41,"Gender":"Female","Income":88681,"City":"Chicago","SubscriptionPlan":"Basic","JoinDate":1755993600000}
+{"CustomerID":1084,"Age":58,"Gender":"Female","Income":47818,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1753315200000}
+{"CustomerID":1085,"Age":18,"Gender":"Female","Income":50544,"City":"Los Angeles","SubscriptionPlan":"Premium","JoinDate":1738800000000}
+{"CustomerID":1086,"Age":68,"Gender":"Female","Income":82532,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1750636800000}
+{"CustomerID":1087,"Age":60,"Gender":"Male","Income":98636,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1710201600000}
+{"CustomerID":1088,"Age":39,"Gender":"Female","Income":77705,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1771545600000}
+{"CustomerID":1089,"Age":40,"Gender":"Female","Income":40104,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1706054400000}
+{"CustomerID":1090,"Age":36,"Gender":"Male","Income":89603,"City":"Miami","SubscriptionPlan":"Premium","JoinDate":1757894400000}
+{"CustomerID":1091,"Age":35,"Gender":"Male","Income":79025,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1774137600000}
+{"CustomerID":1092,"Age":29,"Gender":"Male","Income":52317,"City":"Chicago","SubscriptionPlan":"Gold","JoinDate":1745884800000}
+{"CustomerID":1093,"Age":45,"Gender":"Female","Income":51416,"City":"Los Angeles","SubscriptionPlan":"Basic","JoinDate":1708819200000}
+{"CustomerID":1094,"Age":45,"Gender":"Female","Income":62012,"City":"New York","SubscriptionPlan":"Basic","JoinDate":1789171200000}
+{"CustomerID":1095,"Age":50,"Gender":"Female","Income":88045,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1723248000000}
+{"CustomerID":1096,"Age":36,"Gender":"Female","Income":41400,"City":"New York","SubscriptionPlan":"Premium","JoinDate":1758585600000}
+{"CustomerID":1097,"Age":45,"Gender":"Female","Income":68270,"City":"Miami","SubscriptionPlan":"Basic","JoinDate":1719446400000}
+{"CustomerID":1098,"Age":69,"Gender":"Female","Income":92069,"City":"Los Angeles","SubscriptionPlan":"Gold","JoinDate":1773100800000}
+{"CustomerID":1099,"Age":66,"Gender":"Male","Income":69833,"City":"Miami","SubscriptionPlan":"Gold","JoinDate":1741478400000}
